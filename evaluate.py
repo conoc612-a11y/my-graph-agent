@@ -34,13 +34,22 @@ def baseline_answer(client, cfg, docs, q):
     return out, [d["id"] for d in scored]
 
 
+def forb_hit(answer, item):
+    # 금지 개체 — 「있어야 할 것」만 보면 «있어서는 안 되는 것»이 섞여도 통과한다.
+    # 값은 실측으로만 채운다. 지어내면 통과율만 깎고 아무것도 못 잡는다.
+    return [f for f in item.get("forbidden", []) if ent_hit(answer, f)]
+
+
 def classify(item, r, gtriples):
     if item["refuse_expected"]:
         return ("pass", "-") if r["refused"] else ("fail", "generation")
     exp = {directed(s) for s in item["expected_path"]}
     got = {directed(s) for p in r["paths"] for s in p}
     rec = len(exp & got) / len(exp) if exp else 1.0
+    # 필수 개체 «전부» + 금지 개체 «하나도 없음» = 통과 (노드5 요건의 채점 정의)
     ent_ok = all(ent_hit(r["answer"], e) for e in item["expected_entities"])
+    if forb_hit(r["answer"], item):
+        return ("fail", "generation")  # 경로는 맞아도 답이 오염됐다
     if r["refused"] or not ent_ok:
         if not (exp & got):
             anchored = r.get("anchor") and any(r["anchor"][0] in (a, b) or a in r["anchor"][0] or b in r["anchor"][0] for a, _, b in exp)
@@ -68,25 +77,43 @@ def main():
         exp = {directed(s) for s in item["expected_path"]}
         got = {directed(s) for p in r["paths"] for s in p}
         b_ans, b_docs = baseline_answer(client, cfg, docs, item["question"])
-        b_ok = (("모르겠습니다" in b_ans) == item["refuse_expected"]) and all(ent_hit(b_ans, e) for e in item["expected_entities"])
+        b_ok = (("모르겠습니다" in b_ans) == item["refuse_expected"]) \
+            and all(ent_hit(b_ans, e) for e in item["expected_entities"]) \
+            and not forb_hit(b_ans, item)   # 대조군에도 «같은» 잣대를 쓴다
         rows.append({"id": item["id"], "hops": item["hops"], "verdict": verdict, "layer": layer,
+                     "refuse": item["refuse_expected"],
                      "path_recall": round(len(exp & got) / len(exp), 2) if exp else None,
+                     "forbidden_hit": forb_hit(r["answer"], item),
                      "baseline_ok": b_ok})
+        # ★`paths` 를 같이 남긴다 — 경로 재현율이 «어떤 경로를 타서» 나온 값인지
+        #   숫자만으로는 사람이 확인할 수 없다 (요건 ④「탄 경로를 기록」).
         runs.write(json.dumps({"id": item["id"], "answer": r["answer"], "refused": r["refused"],
-                               "baseline": b_ans}, ensure_ascii=False) + "\n")
-    by_hop = {}
+                               "paths": r["paths"], "baseline": b_ans}, ensure_ascii=False) + "\n")
+
+    # ★거절을 홉 수에 섞지 않는다 — 거절은 경로가 없어 통과가 쉽고(path_recall null),
+    #   섞으면 «무엇에 대한 정확도»인지 흐려진다. 정답/거절을 따로 센다.
+    def agg(sub):
+        return {"n": len(sub),
+                "graph_acc": round(sum(r["verdict"] == "pass" for r in sub) / len(sub), 2),
+                "baseline_acc": round(sum(r["baseline_ok"] for r in sub) / len(sub), 2)}
+
+    by_kind = {}
     for h in sorted({r["hops"] for r in rows}):
-        sub = [r for r in rows if r["hops"] == h]
-        by_hop[str(h)] = {"n": len(sub),
-                          "graph_acc": round(sum(r["verdict"] == "pass" for r in sub) / len(sub), 2),
-                          "baseline_acc": round(sum(r["baseline_ok"] for r in sub) / len(sub), 2)}
+        for refuse, tag in ((False, "정답"), (True, "거절")):
+            sub = [r for r in rows if r["hops"] == h and r["refuse"] is refuse]
+            if sub:
+                by_kind[f"{h}홉-{tag}"] = agg(sub)
+    ans_rows = [r for r in rows if not r["refuse"]]
+    ref_rows = [r for r in rows if r["refuse"]]
     fails = Counter(f'{r["id"]}:{r["layer"]}' for r in rows if r["verdict"] == "fail")
-    out = {"by_hop": by_hop, "fails": dict(fails),
-           "items": [{"id": r["id"], "hops": r["hops"], "verdict": r["verdict"],
-                      "layer": r["layer"], "path_recall": r["path_recall"]} for r in rows],
-           "overall": {"n": len(rows),
-                       "graph_acc": round(sum(r["verdict"] == "pass" for r in rows) / len(rows), 2),
-                       "baseline_acc": round(sum(r["baseline_ok"] for r in rows) / len(rows), 2)}}
+    out = {"by_kind": by_kind, "fails": dict(fails),
+           "items": [{"id": r["id"], "hops": r["hops"], "refuse": r["refuse"],
+                      "verdict": r["verdict"], "layer": r["layer"],
+                      "path_recall": r["path_recall"],
+                      "forbidden_hit": r["forbidden_hit"]} for r in rows],
+           "overall": {"n": len(rows), **agg(rows)},
+           "overall_정답만": {"n": len(ans_rows), **agg(ans_rows)},
+           "overall_거절만": {"n": len(ref_rows), **agg(ref_rows)}}
     (HERE / "output" / "eval.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     print(json.dumps(out, ensure_ascii=False, indent=1))
 

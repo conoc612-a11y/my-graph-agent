@@ -1,14 +1,24 @@
 {
- "by_hop": {
-  "1": {
-   "n": 7,
-   "graph_acc": 0.86,
-   "baseline_acc": 0.29
+ "by_kind": {
+  "1홉-정답": {
+   "n": 5,
+   "graph_acc": 0.8,
+   "baseline_acc": 0.0
   },
-  "2": {
-   "n": 4,
+  "1홉-거절": {
+   "n": 2,
    "graph_acc": 1.0,
-   "baseline_acc": 0.5
+   "baseline_acc": 1.0
+  },
+  "2홉-정답": {
+   "n": 3,
+   "graph_acc": 1.0,
+   "baseline_acc": 0.33
+  },
+  "2홉-거절": {
+   "n": 1,
+   "graph_acc": 1.0,
+   "baseline_acc": 1.0
   }
  },
  "fails": {
@@ -18,84 +28,116 @@
   {
    "id": "g01",
    "hops": 1,
+   "refuse": false,
    "verdict": "fail",
    "layer": "generation",
-   "path_recall": 1.0
+   "path_recall": 1.0,
+   "forbidden_hit": []
   },
   {
    "id": "g02",
    "hops": 1,
+   "refuse": false,
    "verdict": "pass",
    "layer": "-",
-   "path_recall": 1.0
+   "path_recall": 1.0,
+   "forbidden_hit": []
   },
   {
    "id": "g03",
    "hops": 1,
+   "refuse": false,
    "verdict": "pass",
    "layer": "-",
-   "path_recall": 1.0
+   "path_recall": 1.0,
+   "forbidden_hit": []
   },
   {
    "id": "g04",
    "hops": 1,
+   "refuse": false,
    "verdict": "pass",
    "layer": "-",
-   "path_recall": 1.0
+   "path_recall": 1.0,
+   "forbidden_hit": []
   },
   {
    "id": "g05",
    "hops": 1,
+   "refuse": false,
    "verdict": "pass",
    "layer": "-",
-   "path_recall": 1.0
+   "path_recall": 1.0,
+   "forbidden_hit": []
   },
   {
    "id": "g06",
    "hops": 2,
+   "refuse": false,
    "verdict": "pass",
    "layer": "-",
-   "path_recall": 1.0
+   "path_recall": 1.0,
+   "forbidden_hit": []
   },
   {
    "id": "g07",
    "hops": 2,
+   "refuse": false,
    "verdict": "pass",
    "layer": "-",
-   "path_recall": 1.0
+   "path_recall": 1.0,
+   "forbidden_hit": []
   },
   {
    "id": "g08",
    "hops": 2,
+   "refuse": false,
    "verdict": "pass",
    "layer": "-",
-   "path_recall": 1.0
+   "path_recall": 1.0,
+   "forbidden_hit": []
   },
   {
    "id": "g09",
    "hops": 2,
+   "refuse": true,
    "verdict": "pass",
    "layer": "-",
-   "path_recall": null
+   "path_recall": null,
+   "forbidden_hit": []
   },
   {
    "id": "g10",
    "hops": 1,
+   "refuse": true,
    "verdict": "pass",
    "layer": "-",
-   "path_recall": null
+   "path_recall": null,
+   "forbidden_hit": []
   },
   {
    "id": "g11",
    "hops": 1,
+   "refuse": true,
    "verdict": "pass",
    "layer": "-",
-   "path_recall": null
+   "path_recall": null,
+   "forbidden_hit": []
   }
  ],
  "overall": {
   "n": 11,
   "graph_acc": 0.91,
   "baseline_acc": 0.36
+ },
+ "overall_정답만": {
+  "n": 8,
+  "graph_acc": 0.88,
+  "baseline_acc": 0.12
+ },
+ "overall_거절만": {
+  "n": 3,
+  "graph_acc": 1.0,
+  "baseline_acc": 1.0
  }
 }
