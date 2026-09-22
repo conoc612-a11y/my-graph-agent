@@ -6,3 +6,4 @@ trafilatura
 pyyaml
 pydantic
 streamlit
+pyvis
