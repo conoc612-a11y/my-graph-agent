@@ -1,31 +1,53 @@
 {
+ "n_runs": 3,
  "by_kind": {
   "1홉-정답": {
-   "n": 5,
+   "n": 15,
    "graph_acc": 0.8,
    "baseline_acc": 0.0
   },
   "1홉-거절": {
-   "n": 2,
-   "graph_acc": 1.0,
+   "n": 6,
+   "graph_acc": 0.83,
    "baseline_acc": 1.0
   },
   "2홉-정답": {
-   "n": 3,
+   "n": 9,
    "graph_acc": 1.0,
    "baseline_acc": 0.33
   },
   "2홉-거절": {
-   "n": 1,
+   "n": 3,
    "graph_acc": 1.0,
    "baseline_acc": 1.0
   }
  },
  "fails": {
-  "g01:generation": 1
+  "g01:generation": 3,
+  "g10:generation": 1
  },
+ "per_item_pass": {
+  "g01": "0/3",
+  "g02": "3/3",
+  "g03": "3/3",
+  "g04": "3/3",
+  "g05": "3/3",
+  "g06": "3/3",
+  "g07": "3/3",
+  "g08": "3/3",
+  "g09": "3/3",
+  "g10": "2/3",
+  "g11": "3/3"
+ },
+ "shaky_items": [
+  "g10"
+ ],
+ "structural_fails": [
+  "g01"
+ ],
  "items": [
   {
+   "run": 1,
    "id": "g01",
    "hops": 1,
    "refuse": false,
@@ -35,6 +57,7 @@
    "forbidden_hit": []
   },
   {
+   "run": 1,
    "id": "g02",
    "hops": 1,
    "refuse": false,
@@ -44,6 +67,7 @@
    "forbidden_hit": []
   },
   {
+   "run": 1,
    "id": "g03",
    "hops": 1,
    "refuse": false,
@@ -53,6 +77,7 @@
    "forbidden_hit": []
   },
   {
+   "run": 1,
    "id": "g04",
    "hops": 1,
    "refuse": false,
@@ -62,6 +87,7 @@
    "forbidden_hit": []
   },
   {
+   "run": 1,
    "id": "g05",
    "hops": 1,
    "refuse": false,
@@ -71,6 +97,7 @@
    "forbidden_hit": []
   },
   {
+   "run": 1,
    "id": "g06",
    "hops": 2,
    "refuse": false,
@@ -80,6 +107,7 @@
    "forbidden_hit": []
   },
   {
+   "run": 1,
    "id": "g07",
    "hops": 2,
    "refuse": false,
@@ -89,6 +117,7 @@
    "forbidden_hit": []
   },
   {
+   "run": 1,
    "id": "g08",
    "hops": 2,
    "refuse": false,
@@ -98,6 +127,7 @@
    "forbidden_hit": []
   },
   {
+   "run": 1,
    "id": "g09",
    "hops": 2,
    "refuse": true,
@@ -107,6 +137,7 @@
    "forbidden_hit": []
   },
   {
+   "run": 1,
    "id": "g10",
    "hops": 1,
    "refuse": true,
@@ -116,6 +147,227 @@
    "forbidden_hit": []
   },
   {
+   "run": 1,
+   "id": "g11",
+   "hops": 1,
+   "refuse": true,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": null,
+   "forbidden_hit": []
+  },
+  {
+   "run": 2,
+   "id": "g01",
+   "hops": 1,
+   "refuse": false,
+   "verdict": "fail",
+   "layer": "generation",
+   "path_recall": 1.0,
+   "forbidden_hit": []
+  },
+  {
+   "run": 2,
+   "id": "g02",
+   "hops": 1,
+   "refuse": false,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": 1.0,
+   "forbidden_hit": []
+  },
+  {
+   "run": 2,
+   "id": "g03",
+   "hops": 1,
+   "refuse": false,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": 1.0,
+   "forbidden_hit": []
+  },
+  {
+   "run": 2,
+   "id": "g04",
+   "hops": 1,
+   "refuse": false,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": 1.0,
+   "forbidden_hit": []
+  },
+  {
+   "run": 2,
+   "id": "g05",
+   "hops": 1,
+   "refuse": false,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": 1.0,
+   "forbidden_hit": []
+  },
+  {
+   "run": 2,
+   "id": "g06",
+   "hops": 2,
+   "refuse": false,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": 1.0,
+   "forbidden_hit": []
+  },
+  {
+   "run": 2,
+   "id": "g07",
+   "hops": 2,
+   "refuse": false,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": 1.0,
+   "forbidden_hit": []
+  },
+  {
+   "run": 2,
+   "id": "g08",
+   "hops": 2,
+   "refuse": false,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": 1.0,
+   "forbidden_hit": []
+  },
+  {
+   "run": 2,
+   "id": "g09",
+   "hops": 2,
+   "refuse": true,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": null,
+   "forbidden_hit": []
+  },
+  {
+   "run": 2,
+   "id": "g10",
+   "hops": 1,
+   "refuse": true,
+   "verdict": "fail",
+   "layer": "generation",
+   "path_recall": null,
+   "forbidden_hit": []
+  },
+  {
+   "run": 2,
+   "id": "g11",
+   "hops": 1,
+   "refuse": true,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": null,
+   "forbidden_hit": []
+  },
+  {
+   "run": 3,
+   "id": "g01",
+   "hops": 1,
+   "refuse": false,
+   "verdict": "fail",
+   "layer": "generation",
+   "path_recall": 1.0,
+   "forbidden_hit": []
+  },
+  {
+   "run": 3,
+   "id": "g02",
+   "hops": 1,
+   "refuse": false,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": 1.0,
+   "forbidden_hit": []
+  },
+  {
+   "run": 3,
+   "id": "g03",
+   "hops": 1,
+   "refuse": false,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": 1.0,
+   "forbidden_hit": []
+  },
+  {
+   "run": 3,
+   "id": "g04",
+   "hops": 1,
+   "refuse": false,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": 1.0,
+   "forbidden_hit": []
+  },
+  {
+   "run": 3,
+   "id": "g05",
+   "hops": 1,
+   "refuse": false,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": 1.0,
+   "forbidden_hit": []
+  },
+  {
+   "run": 3,
+   "id": "g06",
+   "hops": 2,
+   "refuse": false,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": 1.0,
+   "forbidden_hit": []
+  },
+  {
+   "run": 3,
+   "id": "g07",
+   "hops": 2,
+   "refuse": false,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": 1.0,
+   "forbidden_hit": []
+  },
+  {
+   "run": 3,
+   "id": "g08",
+   "hops": 2,
+   "refuse": false,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": 1.0,
+   "forbidden_hit": []
+  },
+  {
+   "run": 3,
+   "id": "g09",
+   "hops": 2,
+   "refuse": true,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": null,
+   "forbidden_hit": []
+  },
+  {
+   "run": 3,
+   "id": "g10",
+   "hops": 1,
+   "refuse": true,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": null,
+   "forbidden_hit": []
+  },
+  {
+   "run": 3,
    "id": "g11",
    "hops": 1,
    "refuse": true,
@@ -126,18 +378,18 @@
   }
  ],
  "overall": {
-  "n": 11,
-  "graph_acc": 0.91,
+  "n": 33,
+  "graph_acc": 0.88,
   "baseline_acc": 0.36
  },
  "overall_정답만": {
-  "n": 8,
+  "n": 24,
   "graph_acc": 0.88,
   "baseline_acc": 0.12
  },
  "overall_거절만": {
-  "n": 3,
-  "graph_acc": 1.0,
+  "n": 9,
+  "graph_acc": 0.89,
   "baseline_acc": 1.0
  }
 }

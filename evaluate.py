@@ -1,4 +1,9 @@
-"""홉별 측정 + basic RAG 대조 + 실패 층 분류. 결과 output/eval.json · runs.jsonl"""
+"""홉별 측정 + basic RAG 대조 + 실패 층 분류. 결과 output/eval.json · runs.jsonl
+
+  python evaluate.py                # 1회
+  python evaluate.py --repeat 3     # ★3회 — 흔들림과 구조적 실패를 가른다
+"""
+import argparse
 import json
 import re
 from collections import Counter
@@ -62,6 +67,12 @@ def classify(item, r, gtriples):
 
 
 def main():
+    ap = argparse.ArgumentParser()
+    # ★1회 값을 「성능」이라 부르지 않는다. N회를 돌려야 «흔들림»과 «구조적 실패»가 갈린다 —
+    #   평균이 같아도 고칠 자리가 전혀 다르다 (0/N 은 문항·프롬프트, 1/N 은 고쳐도 남는다).
+    ap.add_argument("--repeat", type=int, default=1, help="N회 반복해 문항별 통과 횟수를 본다")
+    args = ap.parse_args()
+
     load_key()
     cfg, client = read_config(), OpenAI()
     docs = read_docs()
@@ -71,24 +82,28 @@ def main():
         gtriples.add((e["s"], e["rel"], e["o"]))
     gold = json.loads((HERE / "data" / "goldenset.json").read_text(encoding="utf-8"))
     rows, runs = [], open(HERE / "output" / "runs.jsonl", "w", encoding="utf-8")
-    for item in gold:
-        r = ask(item["question"])
-        verdict, layer = classify(item, r, gtriples)
-        exp = {directed(s) for s in item["expected_path"]}
-        got = {directed(s) for p in r["paths"] for s in p}
-        b_ans, b_docs = baseline_answer(client, cfg, docs, item["question"])
-        b_ok = (("모르겠습니다" in b_ans) == item["refuse_expected"]) \
-            and all(ent_hit(b_ans, e) for e in item["expected_entities"]) \
-            and not forb_hit(b_ans, item)   # 대조군에도 «같은» 잣대를 쓴다
-        rows.append({"id": item["id"], "hops": item["hops"], "verdict": verdict, "layer": layer,
-                     "refuse": item["refuse_expected"],
-                     "path_recall": round(len(exp & got) / len(exp), 2) if exp else None,
-                     "forbidden_hit": forb_hit(r["answer"], item),
-                     "baseline_ok": b_ok})
-        # ★`paths` 를 같이 남긴다 — 경로 재현율이 «어떤 경로를 타서» 나온 값인지
-        #   숫자만으로는 사람이 확인할 수 없다 (요건 ④「탄 경로를 기록」).
-        runs.write(json.dumps({"id": item["id"], "answer": r["answer"], "refused": r["refused"],
-                               "paths": r["paths"], "baseline": b_ans}, ensure_ascii=False) + "\n")
+    for run_i in range(1, args.repeat + 1):
+        for item in gold:
+            r = ask(item["question"])
+            verdict, layer = classify(item, r, gtriples)
+            exp = {directed(s) for s in item["expected_path"]}
+            got = {directed(s) for p in r["paths"] for s in p}
+            b_ans, b_docs = baseline_answer(client, cfg, docs, item["question"])
+            b_ok = (("모르겠습니다" in b_ans) == item["refuse_expected"]) \
+                and all(ent_hit(b_ans, e) for e in item["expected_entities"]) \
+                and not forb_hit(b_ans, item)   # 대조군에도 «같은» 잣대를 쓴다
+            rows.append({"run": run_i, "id": item["id"], "hops": item["hops"],
+                         "verdict": verdict, "layer": layer,
+                         "refuse": item["refuse_expected"],
+                         "path_recall": round(len(exp & got) / len(exp), 2) if exp else None,
+                         "forbidden_hit": forb_hit(r["answer"], item),
+                         "baseline_ok": b_ok})
+            # ★`paths` 를 같이 남긴다 — 경로 재현율이 «어떤 경로를 타서» 나온 값인지
+            #   숫자만으로는 사람이 확인할 수 없다 (요건 ④「탄 경로를 기록」).
+            runs.write(json.dumps({"run": run_i, "id": item["id"], "answer": r["answer"],
+                                   "refused": r["refused"], "paths": r["paths"],
+                                   "baseline": b_ans}, ensure_ascii=False) + "\n")
+            print(f"  [{run_i}/{args.repeat}] {item['id']} {verdict}", flush=True)
 
     # ★거절을 홉 수에 섞지 않는다 — 거절은 경로가 없어 통과가 쉽고(path_recall null),
     #   섞으면 «무엇에 대한 정확도»인지 흐려진다. 정답/거절을 따로 센다.
@@ -106,8 +121,26 @@ def main():
     ans_rows = [r for r in rows if not r["refuse"]]
     ref_rows = [r for r in rows if r["refuse"]]
     fails = Counter(f'{r["id"]}:{r["layer"]}' for r in rows if r["verdict"] == "fail")
-    out = {"by_kind": by_kind, "fails": dict(fails),
-           "items": [{"id": r["id"], "hops": r["hops"], "refuse": r["refuse"],
+
+    # ★문항별 통과 «횟수» — 평균 하나로는 두 가지가 안 갈린다.
+    #   0/N = «항상» 실패(구조적) → 문항·프롬프트를 고치면 된다
+    #   0<k<N = 회차마다 뒤집힘(흔들림) → 고쳐도 남을 수 있다
+    n_run = args.repeat
+    per_item, shaky, structural = {}, [], []
+    for item in gold:
+        sub = [r for r in rows if r["id"] == item["id"]]
+        k = sum(r["verdict"] == "pass" for r in sub)
+        per_item[item["id"]] = f"{k}/{len(sub)}"
+        if k == 0:
+            structural.append(item["id"])
+        elif k < len(sub):
+            shaky.append(item["id"])
+
+    out = {"n_runs": n_run, "by_kind": by_kind, "fails": dict(fails),
+           "per_item_pass": per_item,
+           "shaky_items": shaky,            # 회차마다 뒤집히는 문항
+           "structural_fails": structural,  # «항상» 실패하는 문항
+           "items": [{"run": r["run"], "id": r["id"], "hops": r["hops"], "refuse": r["refuse"],
                       "verdict": r["verdict"], "layer": r["layer"],
                       "path_recall": r["path_recall"],
                       "forbidden_hit": r["forbidden_hit"]} for r in rows],

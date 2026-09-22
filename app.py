@@ -55,7 +55,10 @@ DOCS = {d["id"]: d for d in read_docs()}
 gold = {g["question"] for g in __import__("json").loads(
     open("data/goldenset.json", encoding="utf-8").read())}
 
-q = st.text_input("질문", "GTX-A노선과 같은 기관이 맡은 다른 노선은?")
+# ★`?q=질문` 으로도 물을 수 있다 — 결과 화면을 «링크 하나로» 건넬 수 있고,
+#   캡처 스크립트(docs/capture)가 클릭 없이 이 경로로 찍는다.
+_qp = st.query_params.get("q", "")
+q = st.text_input("질문", _qp or "GTX-A노선과 같은 기관이 맡은 다른 노선은?")
 samples = ["GTX-A노선과 같은 기관이 맡은 다른 노선은?",
            "경기 고양시에 있는 개발사업은?",
            "부산 해운대구 재건축 사업의 시행사는?"]
@@ -63,7 +66,7 @@ for c, s in zip(st.columns(3), samples):
     if c.button(s, key=s):
         q = s
 
-if st.button("물어보기", type="primary") and q:
+if (st.button("물어보기", type="primary") or _qp) and q:
     with st.spinner("그래프를 타는 중…"):
         r = ask(q)
     if r["refused"]:
