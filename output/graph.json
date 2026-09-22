@@ -1,0 +1,5413 @@
+{
+ "nodes": [
+  {
+   "name": "상계주공7단지 재건축사업",
+   "type": "Project",
+   "docs": [
+    "d0001"
+   ]
+  },
+  {
+   "name": "노원구",
+   "type": "Region",
+   "docs": [
+    "d0001"
+   ]
+  },
+  {
+   "name": "노원구",
+   "type": "Agency",
+   "docs": [
+    "d0001"
+   ]
+  },
+  {
+   "name": "도시 및 주거환경정비법",
+   "type": "Policy",
+   "docs": [
+    "d0001"
+   ]
+  },
+  {
+   "name": "목동 재건축",
+   "type": "Project",
+   "docs": [
+    "d0002"
+   ]
+  },
+  {
+   "name": "서울특별시",
+   "type": "Region",
+   "docs": [
+    "d0002",
+    "d0006",
+    "d0020",
+    "d0037",
+    "d0049"
+   ]
+  },
+  {
+   "name": "삼성물산",
+   "type": "Agency",
+   "docs": [
+    "d0002",
+    "d0059"
+   ]
+  },
+  {
+   "name": "현대건설",
+   "type": "Agency",
+   "docs": [
+    "d0002",
+    "d0014"
+   ]
+  },
+  {
+   "name": "GS건설",
+   "type": "Agency",
+   "docs": [
+    "d0002"
+   ]
+  },
+  {
+   "name": "대우건설",
+   "type": "Agency",
+   "docs": [
+    "d0002"
+   ]
+  },
+  {
+   "name": "디에이치 퍼스티어 아이파크",
+   "type": "Project",
+   "docs": [
+    "d0002"
+   ]
+  },
+  {
+   "name": "강남구 개포동",
+   "type": "Region",
+   "docs": [
+    "d0002"
+   ]
+  },
+  {
+   "name": "래미안 브랜드 전략",
+   "type": "Policy",
+   "docs": [
+    "d0002"
+   ]
+  },
+  {
+   "name": "IPARK현대산업개발",
+   "type": "Agency",
+   "docs": [
+    "d0002"
+   ]
+  },
+  {
+   "name": "더 라인 330",
+   "type": "Project",
+   "docs": [
+    "d0002"
+   ]
+  },
+  {
+   "name": "더 성수 520",
+   "type": "Project",
+   "docs": [
+    "d0002"
+   ]
+  },
+  {
+   "name": "백범김구기념관",
+   "type": "Project",
+   "docs": [
+    "d0003"
+   ]
+  },
+  {
+   "name": "효창공원",
+   "type": "Region",
+   "docs": [
+    "d0003"
+   ]
+  },
+  {
+   "name": "우리은행",
+   "type": "Agency",
+   "docs": [
+    "d0003",
+    "d0020",
+    "d0045"
+   ]
+  },
+  {
+   "name": "2026 투게더 걷기 캠페인",
+   "type": "Project",
+   "docs": [
+    "d0003"
+   ]
+  },
+  {
+   "name": "유네스코한국위원회",
+   "type": "Agency",
+   "docs": [
+    "d0003"
+   ]
+  },
+  {
+   "name": "홍현익",
+   "type": "Person",
+   "docs": [
+    "d0003"
+   ]
+  },
+  {
+   "name": "정진완",
+   "type": "Person",
+   "docs": [
+    "d0003"
+   ]
+  },
+  {
+   "name": "문화유산 보존 사업",
+   "type": "Policy",
+   "docs": [
+    "d0003"
+   ]
+  },
+  {
+   "name": "백범 김구 탄생 150주년 기념해 지정",
+   "type": "Policy",
+   "docs": [
+    "d0003"
+   ]
+  },
+  {
+   "name": "장동혁",
+   "type": "Person",
+   "docs": [
+    "d0004"
+   ]
+  },
+  {
+   "name": "국민의힘",
+   "type": "Agency",
+   "docs": [
+    "d0004",
+    "d0053"
+   ]
+  },
+  {
+   "name": "농지 전수조사",
+   "type": "Project",
+   "docs": [
+    "d0004"
+   ]
+  },
+  {
+   "name": "특별조치법",
+   "type": "Policy",
+   "docs": [
+    "d0004"
+   ]
+  },
+  {
+   "name": "공소청",
+   "type": "Project",
+   "docs": [
+    "d0005"
+   ]
+  },
+  {
+   "name": "검사정원법 시행령",
+   "type": "Policy",
+   "docs": [
+    "d0005"
+   ]
+  },
+  {
+   "name": "법무부",
+   "type": "Agency",
+   "docs": [
+    "d0005"
+   ]
+  },
+  {
+   "name": "이재명",
+   "type": "Person",
+   "docs": [
+    "d0005"
+   ]
+  },
+  {
+   "name": "대한민국 대통령",
+   "type": "Agency",
+   "docs": [
+    "d0005"
+   ]
+  },
+  {
+   "name": "주거안정플랜",
+   "type": "Policy",
+   "docs": [
+    "d0005",
+    "d0027",
+    "d0035",
+    "d0039",
+    "d0043",
+    "d0045"
+   ]
+  },
+  {
+   "name": "대한민국 정부",
+   "type": "Agency",
+   "docs": [
+    "d0005",
+    "d0020"
+   ]
+  },
+  {
+   "name": "직방",
+   "type": "Agency",
+   "docs": [
+    "d0006"
+   ]
+  },
+  {
+   "name": "집코노미 박람회 2026",
+   "type": "Project",
+   "docs": [
+    "d0006",
+    "d0017"
+   ]
+  },
+  {
+   "name": "장우철",
+   "type": "Person",
+   "docs": [
+    "d0006",
+    "d0017"
+   ]
+  },
+  {
+   "name": "국토교통부",
+   "type": "Agency",
+   "docs": [
+    "d0006",
+    "d0010",
+    "d0017",
+    "d0023",
+    "d0027",
+    "d0031",
+    "d0035",
+    "d0039",
+    "d0043"
+   ]
+  },
+  {
+   "name": "허윤경",
+   "type": "Person",
+   "docs": [
+    "d0006",
+    "d0017"
+   ]
+  },
+  {
+   "name": "한국건설산업연구원",
+   "type": "Agency",
+   "docs": [
+    "d0006",
+    "d0017"
+   ]
+  },
+  {
+   "name": "이창무",
+   "type": "Person",
+   "docs": [
+    "d0006",
+    "d0017"
+   ]
+  },
+  {
+   "name": "한양대",
+   "type": "Agency",
+   "docs": [
+    "d0006",
+    "d0017"
+   ]
+  },
+  {
+   "name": "메밀단편 판교점",
+   "type": "Project",
+   "docs": [
+    "d0007"
+   ]
+  },
+  {
+   "name": "경기 성남시 판교",
+   "type": "Region",
+   "docs": [
+    "d0007"
+   ]
+  },
+  {
+   "name": "교촌에프앤비",
+   "type": "Agency",
+   "docs": [
+    "d0007"
+   ]
+  },
+  {
+   "name": "카카오페이",
+   "type": "Agency",
+   "docs": [
+    "d0008"
+   ]
+  },
+  {
+   "name": "원화 스테이블코인",
+   "type": "Project",
+   "docs": [
+    "d0008"
+   ]
+  },
+  {
+   "name": "카카오뱅크",
+   "type": "Agency",
+   "docs": [
+    "d0008"
+   ]
+  },
+  {
+   "name": "파이어블록스",
+   "type": "Agency",
+   "docs": [
+    "d0008"
+   ]
+  },
+  {
+   "name": "카카오그룹",
+   "type": "Agency",
+   "docs": [
+    "d0008"
+   ]
+  },
+  {
+   "name": "서클 인터넷 그룹",
+   "type": "Agency",
+   "docs": [
+    "d0008"
+   ]
+  },
+  {
+   "name": "마이클 샤울로프",
+   "type": "Person",
+   "docs": [
+    "d0008"
+   ]
+  },
+  {
+   "name": "윤호영",
+   "type": "Person",
+   "docs": [
+    "d0008"
+   ]
+  },
+  {
+   "name": "신원근",
+   "type": "Person",
+   "docs": [
+    "d0008"
+   ]
+  },
+  {
+   "name": "항만운송사업법 시행령",
+   "type": "Policy",
+   "docs": [
+    "d0009"
+   ]
+  },
+  {
+   "name": "해양수산부",
+   "type": "Agency",
+   "docs": [
+    "d0009"
+   ]
+  },
+  {
+   "name": "친환경 선박 연료 공급업",
+   "type": "Project",
+   "docs": [
+    "d0009"
+   ]
+  },
+  {
+   "name": "GTX-A노선",
+   "type": "Project",
+   "docs": [
+    "d0010"
+   ]
+  },
+  {
+   "name": "파주 운정중앙",
+   "type": "Region",
+   "docs": [
+    "d0010"
+   ]
+  },
+  {
+   "name": "화성 동탄",
+   "type": "Region",
+   "docs": [
+    "d0010"
+   ]
+  },
+  {
+   "name": "국가철도공단",
+   "type": "Agency",
+   "docs": [
+    "d0010"
+   ]
+  },
+  {
+   "name": "GTX-B노선",
+   "type": "Project",
+   "docs": [
+    "d0010"
+   ]
+  },
+  {
+   "name": "인천대입구",
+   "type": "Region",
+   "docs": [
+    "d0010"
+   ]
+  },
+  {
+   "name": "남양주 마석",
+   "type": "Region",
+   "docs": [
+    "d0010"
+   ]
+  },
+  {
+   "name": "GTX-C노선",
+   "type": "Project",
+   "docs": [
+    "d0010"
+   ]
+  },
+  {
+   "name": "수원",
+   "type": "Region",
+   "docs": [
+    "d0010",
+    "d0034"
+   ]
+  },
+  {
+   "name": "양주 덕정",
+   "type": "Region",
+   "docs": [
+    "d0010"
+   ]
+  },
+  {
+   "name": "집코노미 박람회 2026",
+   "type": "Policy",
+   "docs": [
+    "d0010"
+   ]
+  },
+  {
+   "name": "우리동네국민상회",
+   "type": "Project",
+   "docs": [
+    "d0011"
+   ]
+  },
+  {
+   "name": "본사",
+   "type": "Agency",
+   "docs": [
+    "d0011"
+   ]
+  },
+  {
+   "name": "김신영",
+   "type": "Person",
+   "docs": [
+    "d0011"
+   ]
+  },
+  {
+   "name": "이선민",
+   "type": "Person",
+   "docs": [
+    "d0011"
+   ]
+  },
+  {
+   "name": "구성환",
+   "type": "Person",
+   "docs": [
+    "d0011"
+   ]
+  },
+  {
+   "name": "신분평 에피트 더웨이시티",
+   "type": "Project",
+   "docs": [
+    "d0012"
+   ]
+  },
+  {
+   "name": "청주시 서원구 장성동 신분평 도시개발구역 A2블록",
+   "type": "Region",
+   "docs": [
+    "d0012"
+   ]
+  },
+  {
+   "name": "HL디앤아이한라",
+   "type": "Agency",
+   "docs": [
+    "d0012"
+   ]
+  },
+  {
+   "name": "신분평지구",
+   "type": "Project",
+   "docs": [
+    "d0012"
+   ]
+  },
+  {
+   "name": "청주 남부권",
+   "type": "Region",
+   "docs": [
+    "d0012"
+   ]
+  },
+  {
+   "name": "청주하나병원",
+   "type": "Agency",
+   "docs": [
+    "d0012"
+   ]
+  },
+  {
+   "name": "의료 편의 서비스",
+   "type": "Policy",
+   "docs": [
+    "d0012"
+   ]
+  },
+  {
+   "name": "철산자이 더 헤리티지",
+   "type": "Project",
+   "docs": [
+    "d0013"
+   ]
+  },
+  {
+   "name": "광명시",
+   "type": "Region",
+   "docs": [
+    "d0013"
+   ]
+  },
+  {
+   "name": "한국부동산원 청약홈",
+   "type": "Agency",
+   "docs": [
+    "d0013"
+   ]
+  },
+  {
+   "name": "분양가상한제",
+   "type": "Policy",
+   "docs": [
+    "d0013"
+   ]
+  },
+  {
+   "name": "철산자이 브리에르",
+   "type": "Project",
+   "docs": [
+    "d0013"
+   ]
+  },
+  {
+   "name": "청약 재당첨 제한",
+   "type": "Policy",
+   "docs": [
+    "d0013"
+   ]
+  },
+  {
+   "name": "채스우드 초고층 아파트 개발 사업",
+   "type": "Project",
+   "docs": [
+    "d0014"
+   ]
+  },
+  {
+   "name": "채스우드",
+   "type": "Region",
+   "docs": [
+    "d0014"
+   ]
+  },
+  {
+   "name": "한국해외인프라도시개발지원공사",
+   "type": "Agency",
+   "docs": [
+    "d0014"
+   ]
+  },
+  {
+   "name": "한투리얼에셋",
+   "type": "Agency",
+   "docs": [
+    "d0014"
+   ]
+  },
+  {
+   "name": "2026년 한반도 단풍절정 예측지도",
+   "type": "Project",
+   "docs": [
+    "d0015"
+   ]
+  },
+  {
+   "name": "산림청",
+   "type": "Agency",
+   "docs": [
+    "d0015"
+   ]
+  },
+  {
+   "name": "단풍 절정 시기 예측",
+   "type": "Policy",
+   "docs": [
+    "d0015"
+   ]
+  },
+  {
+   "name": "설악산",
+   "type": "Region",
+   "docs": [
+    "d0015"
+   ]
+  },
+  {
+   "name": "강원 북부 산지",
+   "type": "Region",
+   "docs": [
+    "d0015"
+   ]
+  },
+  {
+   "name": "속리산",
+   "type": "Region",
+   "docs": [
+    "d0015"
+   ]
+  },
+  {
+   "name": "충청북도",
+   "type": "Region",
+   "docs": [
+    "d0015"
+   ]
+  },
+  {
+   "name": "내장산",
+   "type": "Region",
+   "docs": [
+    "d0015"
+   ]
+  },
+  {
+   "name": "전라북도",
+   "type": "Region",
+   "docs": [
+    "d0015"
+   ]
+  },
+  {
+   "name": "한라산",
+   "type": "Region",
+   "docs": [
+    "d0015"
+   ]
+  },
+  {
+   "name": "제주도",
+   "type": "Region",
+   "docs": [
+    "d0015"
+   ]
+  },
+  {
+   "name": "박영환",
+   "type": "Person",
+   "docs": [
+    "d0015"
+   ]
+  },
+  {
+   "name": "탁소텔",
+   "type": "Project",
+   "docs": [
+    "d0016"
+   ]
+  },
+  {
+   "name": "보령",
+   "type": "Agency",
+   "docs": [
+    "d0016"
+   ]
+  },
+  {
+   "name": "중국",
+   "type": "Region",
+   "docs": [
+    "d0016"
+   ]
+  },
+  {
+   "name": "이판제약",
+   "type": "Agency",
+   "docs": [
+    "d0016"
+   ]
+  },
+  {
+   "name": "김성진",
+   "type": "Person",
+   "docs": [
+    "d0016"
+   ]
+  },
+  {
+   "name": "상동역 롯데캐슬 시그니처",
+   "type": "Project",
+   "docs": [
+    "d0017"
+   ]
+  },
+  {
+   "name": "부천 원미구 상동",
+   "type": "Region",
+   "docs": [
+    "d0017"
+   ]
+  },
+  {
+   "name": "롯데건설",
+   "type": "Agency",
+   "docs": [
+    "d0017"
+   ]
+  },
+  {
+   "name": "상동역",
+   "type": "Project",
+   "docs": [
+    "d0017"
+   ]
+  },
+  {
+   "name": "서울 강남구 삼성동 코엑스",
+   "type": "Region",
+   "docs": [
+    "d0017"
+   ]
+  },
+  {
+   "name": "집코노미 박람회 주최사",
+   "type": "Agency",
+   "docs": [
+    "d0017"
+   ]
+  },
+  {
+   "name": "부산 북항 친수공원",
+   "type": "Project",
+   "docs": [
+    "d0019"
+   ]
+  },
+  {
+   "name": "부산 북항",
+   "type": "Region",
+   "docs": [
+    "d0019"
+   ]
+  },
+  {
+   "name": "BGF리테일",
+   "type": "Agency",
+   "docs": [
+    "d0019",
+    "d0037"
+   ]
+  },
+  {
+   "name": "부산시",
+   "type": "Agency",
+   "docs": [
+    "d0019"
+   ]
+  },
+  {
+   "name": "서울 아파트값 상승기",
+   "type": "Project",
+   "docs": [
+    "d0020"
+   ]
+  },
+  {
+   "name": "한국부동산원",
+   "type": "Agency",
+   "docs": [
+    "d0020"
+   ]
+  },
+  {
+   "name": "문재인 정부",
+   "type": "Person",
+   "docs": [
+    "d0020"
+   ]
+  },
+  {
+   "name": "대출 규제",
+   "type": "Policy",
+   "docs": [
+    "d0020"
+   ]
+  },
+  {
+   "name": "세제개편안",
+   "type": "Policy",
+   "docs": [
+    "d0020"
+   ]
+  },
+  {
+   "name": "남혁우",
+   "type": "Person",
+   "docs": [
+    "d0020",
+    "d0023",
+    "d0045"
+   ]
+  },
+  {
+   "name": "블룸타이드",
+   "type": "Project",
+   "docs": [
+    "d0021"
+   ]
+  },
+  {
+   "name": "홍대점",
+   "type": "Region",
+   "docs": [
+    "d0021"
+   ]
+  },
+  {
+   "name": "무신사 뷰티 홍대점",
+   "type": "Agency",
+   "docs": [
+    "d0021"
+   ]
+  },
+  {
+   "name": "고영욱",
+   "type": "Person",
+   "docs": [
+    "d0022"
+   ]
+  },
+  {
+   "name": "룰라",
+   "type": "Project",
+   "docs": [
+    "d0022"
+   ]
+  },
+  {
+   "name": "심수봉",
+   "type": "Person",
+   "docs": [
+    "d0022"
+   ]
+  },
+  {
+   "name": "진안고원 트로트페스티벌",
+   "type": "Project",
+   "docs": [
+    "d0022"
+   ]
+  },
+  {
+   "name": "개포주공7단지",
+   "type": "Project",
+   "docs": [
+    "d0023"
+   ]
+  },
+  {
+   "name": "개포동",
+   "type": "Region",
+   "docs": [
+    "d0023"
+   ]
+  },
+  {
+   "name": "아크로리버파크",
+   "type": "Project",
+   "docs": [
+    "d0023"
+   ]
+  },
+  {
+   "name": "반포동",
+   "type": "Region",
+   "docs": [
+    "d0023"
+   ]
+  },
+  {
+   "name": "신반포2",
+   "type": "Project",
+   "docs": [
+    "d0023"
+   ]
+  },
+  {
+   "name": "잠원동",
+   "type": "Region",
+   "docs": [
+    "d0023"
+   ]
+  },
+  {
+   "name": "우성1·2·3차",
+   "type": "Project",
+   "docs": [
+    "d0023"
+   ]
+  },
+  {
+   "name": "잠실동",
+   "type": "Region",
+   "docs": [
+    "d0023"
+   ]
+  },
+  {
+   "name": "우리은행 부동산연구원",
+   "type": "Agency",
+   "docs": [
+    "d0023"
+   ]
+  },
+  {
+   "name": "이형일",
+   "type": "Person",
+   "docs": [
+    "d0024"
+   ]
+  },
+  {
+   "name": "재정경제부",
+   "type": "Agency",
+   "docs": [
+    "d0024"
+   ]
+  },
+  {
+   "name": "한미전략투자공사",
+   "type": "Agency",
+   "docs": [
+    "d0024"
+   ]
+  },
+  {
+   "name": "대미 전략투자 사업",
+   "type": "Policy",
+   "docs": [
+    "d0024"
+   ]
+  },
+  {
+   "name": "미국 텍사스주 엔시날",
+   "type": "Region",
+   "docs": [
+    "d0024"
+   ]
+  },
+  {
+   "name": "포스코홀딩스 미래기술연구원",
+   "type": "Agency",
+   "docs": [
+    "d0025"
+   ]
+  },
+  {
+   "name": "고온수전해 실증",
+   "type": "Project",
+   "docs": [
+    "d0025"
+   ]
+  },
+  {
+   "name": "포항산업과학연구원",
+   "type": "Agency",
+   "docs": [
+    "d0025"
+   ]
+  },
+  {
+   "name": "엔포러스",
+   "type": "Agency",
+   "docs": [
+    "d0025"
+   ]
+  },
+  {
+   "name": "제철소",
+   "type": "Region",
+   "docs": [
+    "d0025"
+   ]
+  },
+  {
+   "name": "이만수",
+   "type": "Person",
+   "docs": [
+    "d0025"
+   ]
+  },
+  {
+   "name": "안진수",
+   "type": "Person",
+   "docs": [
+    "d0025"
+   ]
+  },
+  {
+   "name": "인천계양지구",
+   "type": "Project",
+   "docs": [
+    "d0026"
+   ]
+  },
+  {
+   "name": "인천 계양구",
+   "type": "Region",
+   "docs": [
+    "d0026"
+   ]
+  },
+  {
+   "name": "한국토지주택공사",
+   "type": "Agency",
+   "docs": [
+    "d0026",
+    "d0045",
+    "d0053"
+   ]
+  },
+  {
+   "name": "7701번 시내버스",
+   "type": "Project",
+   "docs": [
+    "d0026"
+   ]
+  },
+  {
+   "name": "계양역",
+   "type": "Project",
+   "docs": [
+    "d0026"
+   ]
+  },
+  {
+   "name": "광역급행 M버스",
+   "type": "Project",
+   "docs": [
+    "d0026"
+   ]
+  },
+  {
+   "name": "인천시",
+   "type": "Agency",
+   "docs": [
+    "d0026"
+   ]
+  },
+  {
+   "name": "대도시권광역교통위원회 심의",
+   "type": "Policy",
+   "docs": [
+    "d0026"
+   ]
+  },
+  {
+   "name": "서울 출퇴근 교통망 확충",
+   "type": "Policy",
+   "docs": [
+    "d0026"
+   ]
+  },
+  {
+   "name": "보편형 공공임대",
+   "type": "Project",
+   "docs": [
+    "d0027"
+   ]
+  },
+  {
+   "name": "부천대장",
+   "type": "Region",
+   "docs": [
+    "d0027"
+   ]
+  },
+  {
+   "name": "남양주왕숙",
+   "type": "Region",
+   "docs": [
+    "d0027"
+   ]
+  },
+  {
+   "name": "토스뱅크",
+   "type": "Agency",
+   "docs": [
+    "d0028"
+   ]
+  },
+  {
+   "name": "한가위 응원 키트",
+   "type": "Project",
+   "docs": [
+    "d0028"
+   ]
+  },
+  {
+   "name": "사회공헌 활동",
+   "type": "Policy",
+   "docs": [
+    "d0028"
+   ]
+  },
+  {
+   "name": "카카오엔터테인먼트",
+   "type": "Agency",
+   "docs": [
+    "d0029"
+   ]
+  },
+  {
+   "name": "카카오페이지",
+   "type": "Project",
+   "docs": [
+    "d0029"
+   ]
+  },
+  {
+   "name": "한국",
+   "type": "Region",
+   "docs": [
+    "d0029"
+   ]
+  },
+  {
+   "name": "카카오웹툰",
+   "type": "Project",
+   "docs": [
+    "d0029"
+   ]
+  },
+  {
+   "name": "타파스",
+   "type": "Project",
+   "docs": [
+    "d0029"
+   ]
+  },
+  {
+   "name": "미국",
+   "type": "Region",
+   "docs": [
+    "d0029"
+   ]
+  },
+  {
+   "name": "카카오",
+   "type": "Agency",
+   "docs": [
+    "d0029"
+   ]
+  },
+  {
+   "name": "카카오AI",
+   "type": "Agency",
+   "docs": [
+    "d0029"
+   ]
+  },
+  {
+   "name": "카카오X",
+   "type": "Agency",
+   "docs": [
+    "d0029"
+   ]
+  },
+  {
+   "name": "삼양씨앤씨",
+   "type": "Agency",
+   "docs": [
+    "d0029"
+   ]
+  },
+  {
+   "name": "웹툰·웹소설 제작",
+   "type": "Project",
+   "docs": [
+    "d0029"
+   ]
+  },
+  {
+   "name": "인타임",
+   "type": "Agency",
+   "docs": [
+    "d0029"
+   ]
+  },
+  {
+   "name": "필연매니지먼트",
+   "type": "Agency",
+   "docs": [
+    "d0029"
+   ]
+  },
+  {
+   "name": "인천국제공항",
+   "type": "Region",
+   "docs": [
+    "d0030"
+   ]
+  },
+  {
+   "name": "제1여객터미널",
+   "type": "Project",
+   "docs": [
+    "d0030"
+   ]
+  },
+  {
+   "name": "인천공항세관",
+   "type": "Agency",
+   "docs": [
+    "d0030"
+   ]
+  },
+  {
+   "name": "남창훈",
+   "type": "Person",
+   "docs": [
+    "d0030"
+   ]
+  },
+  {
+   "name": "인천공항 입국장 장애인 화장실",
+   "type": "Project",
+   "docs": [
+    "d0030"
+   ]
+  },
+  {
+   "name": "고양대곡지식융합지구",
+   "type": "Project",
+   "docs": [
+    "d0031"
+   ]
+  },
+  {
+   "name": "고양 덕양구",
+   "type": "Region",
+   "docs": [
+    "d0031"
+   ]
+  },
+  {
+   "name": "의왕오전왕곡지구",
+   "type": "Project",
+   "docs": [
+    "d0031"
+   ]
+  },
+  {
+   "name": "의왕시 오전동·왕곡동",
+   "type": "Region",
+   "docs": [
+    "d0031"
+   ]
+  },
+  {
+   "name": "8·13 공급대책",
+   "type": "Policy",
+   "docs": [
+    "d0031"
+   ]
+  },
+  {
+   "name": "한국보건사회연구원",
+   "type": "Agency",
+   "docs": [
+    "d0032"
+   ]
+  },
+  {
+   "name": "노후 준비의 현황과 과제 보고서",
+   "type": "Policy",
+   "docs": [
+    "d0032"
+   ]
+  },
+  {
+   "name": "금천구 소재 한 초등학교",
+   "type": "Project",
+   "docs": [
+    "d0033"
+   ]
+  },
+  {
+   "name": "금천구",
+   "type": "Region",
+   "docs": [
+    "d0033"
+   ]
+  },
+  {
+   "name": "B씨",
+   "type": "Person",
+   "docs": [
+    "d0033"
+   ]
+  },
+  {
+   "name": "서울시교육청",
+   "type": "Agency",
+   "docs": [
+    "d0033"
+   ]
+  },
+  {
+   "name": "아침 열기 활동",
+   "type": "Policy",
+   "docs": [
+    "d0033"
+   ]
+  },
+  {
+   "name": "경기남부경찰청",
+   "type": "Agency",
+   "docs": [
+    "d0034"
+   ]
+  },
+  {
+   "name": "안산",
+   "type": "Region",
+   "docs": [
+    "d0034"
+   ]
+  },
+  {
+   "name": "시흥",
+   "type": "Region",
+   "docs": [
+    "d0034"
+   ]
+  },
+  {
+   "name": "화성",
+   "type": "Region",
+   "docs": [
+    "d0034"
+   ]
+  },
+  {
+   "name": "평택오산",
+   "type": "Region",
+   "docs": [
+    "d0034"
+   ]
+  },
+  {
+   "name": "청년월세",
+   "type": "Project",
+   "docs": [
+    "d0035"
+   ]
+  },
+  {
+   "name": "자리",
+   "type": "Project",
+   "docs": [
+    "d0036"
+   ]
+  },
+  {
+   "name": "뉴욕 맨해튼",
+   "type": "Region",
+   "docs": [
+    "d0036"
+   ]
+  },
+  {
+   "name": "CJ제일제당",
+   "type": "Agency",
+   "docs": [
+    "d0036"
+   ]
+  },
+  {
+   "name": "jari",
+   "type": "Project",
+   "docs": [
+    "d0036"
+   ]
+  },
+  {
+   "name": "그레고리 옙",
+   "type": "Person",
+   "docs": [
+    "d0036"
+   ]
+  },
+  {
+   "name": "CJ제일제당 라이프스타일 식품사업부문",
+   "type": "Agency",
+   "docs": [
+    "d0036"
+   ]
+  },
+  {
+   "name": "부산 북항 친수공원",
+   "type": "Region",
+   "docs": [
+    "d0037"
+   ]
+  },
+  {
+   "name": "부산 동구 CU 점포",
+   "type": "Project",
+   "docs": [
+    "d0037"
+   ]
+  },
+  {
+   "name": "대전 오월드",
+   "type": "Project",
+   "docs": [
+    "d0037"
+   ]
+  },
+  {
+   "name": "대전",
+   "type": "Region",
+   "docs": [
+    "d0037"
+   ]
+  },
+  {
+   "name": "늑구",
+   "type": "Person",
+   "docs": [
+    "d0037"
+   ]
+  },
+  {
+   "name": "에버랜드",
+   "type": "Agency",
+   "docs": [
+    "d0037"
+   ]
+  },
+  {
+   "name": "푸바오 팝업스토어",
+   "type": "Project",
+   "docs": [
+    "d0037"
+   ]
+  },
+  {
+   "name": "서울 여의도 더현대서울",
+   "type": "Region",
+   "docs": [
+    "d0037"
+   ]
+  },
+  {
+   "name": "태국 피그미하마 무뎅",
+   "type": "Person",
+   "docs": [
+    "d0037"
+   ]
+  },
+  {
+   "name": "태국",
+   "type": "Region",
+   "docs": [
+    "d0037"
+   ]
+  },
+  {
+   "name": "하림펫푸드",
+   "type": "Agency",
+   "docs": [
+    "d0038"
+   ]
+  },
+  {
+   "name": "더리얼 레시피 추석 한상 세트 특가전",
+   "type": "Project",
+   "docs": [
+    "d0038"
+   ]
+  },
+  {
+   "name": "굽네",
+   "type": "Agency",
+   "docs": [
+    "d0038"
+   ]
+  },
+  {
+   "name": "듀먼 듀듀데이 프로모션",
+   "type": "Project",
+   "docs": [
+    "d0038"
+   ]
+  },
+  {
+   "name": "hy",
+   "type": "Agency",
+   "docs": [
+    "d0038"
+   ]
+  },
+  {
+   "name": "큐토펫 추석 할인 행사",
+   "type": "Project",
+   "docs": [
+    "d0038"
+   ]
+  },
+  {
+   "name": "포포몽",
+   "type": "Agency",
+   "docs": [
+    "d0038"
+   ]
+  },
+  {
+   "name": "러브 링커 캠페인",
+   "type": "Project",
+   "docs": [
+    "d0038"
+   ]
+  },
+  {
+   "name": "한국헌혈견협회",
+   "type": "Agency",
+   "docs": [
+    "d0038"
+   ]
+  },
+  {
+   "name": "아논이가 나누는 한가위의 기적 콘텐츠",
+   "type": "Project",
+   "docs": [
+    "d0038"
+   ]
+  },
+  {
+   "name": "최민경",
+   "type": "Person",
+   "docs": [
+    "d0038"
+   ]
+  },
+  {
+   "name": "3기 신도시",
+   "type": "Project",
+   "docs": [
+    "d0039",
+    "d0043"
+   ]
+  },
+  {
+   "name": "수도권",
+   "type": "Region",
+   "docs": [
+    "d0039",
+    "d0043",
+    "d0045",
+    "d0047"
+   ]
+  },
+  {
+   "name": "고양창릉 B-1블록",
+   "type": "Project",
+   "docs": [
+    "d0039"
+   ]
+  },
+  {
+   "name": "경기 고양시",
+   "type": "Region",
+   "docs": [
+    "d0039",
+    "d0043"
+   ]
+  },
+  {
+   "name": "남양주 진접",
+   "type": "Project",
+   "docs": [
+    "d0039",
+    "d0043"
+   ]
+  },
+  {
+   "name": "경기도 남양주시",
+   "type": "Region",
+   "docs": [
+    "d0039"
+   ]
+  },
+  {
+   "name": "고양시 대곡역 일대 공공주택지구",
+   "type": "Project",
+   "docs": [
+    "d0039"
+   ]
+  },
+  {
+   "name": "의왕시 오전동·왕곡동 공공주택지구",
+   "type": "Project",
+   "docs": [
+    "d0039"
+   ]
+  },
+  {
+   "name": "의왕시",
+   "type": "Region",
+   "docs": [
+    "d0039",
+    "d0043"
+   ]
+  },
+  {
+   "name": "이유정",
+   "type": "Person",
+   "docs": [
+    "d0039"
+   ]
+  },
+  {
+   "name": "한국경제",
+   "type": "Agency",
+   "docs": [
+    "d0039"
+   ]
+  },
+  {
+   "name": "김동아",
+   "type": "Person",
+   "docs": [
+    "d0041"
+   ]
+  },
+  {
+   "name": "더불어민주당",
+   "type": "Agency",
+   "docs": [
+    "d0041"
+   ]
+  },
+  {
+   "name": "김현지",
+   "type": "Person",
+   "docs": [
+    "d0041"
+   ]
+  },
+  {
+   "name": "대통령실",
+   "type": "Agency",
+   "docs": [
+    "d0041"
+   ]
+  },
+  {
+   "name": "대통령",
+   "type": "Person",
+   "docs": [
+    "d0041"
+   ]
+  },
+  {
+   "name": "사회보장급여법 시행령 일부개정령안",
+   "type": "Policy",
+   "docs": [
+    "d0042"
+   ]
+  },
+  {
+   "name": "보건복지부",
+   "type": "Agency",
+   "docs": [
+    "d0042"
+   ]
+  },
+  {
+   "name": "복지사각지대 발굴시스템",
+   "type": "Project",
+   "docs": [
+    "d0042"
+   ]
+  },
+  {
+   "name": "대한민국",
+   "type": "Region",
+   "docs": [
+    "d0042"
+   ]
+  },
+  {
+   "name": "금융감독원 불법사금융피해신고센터",
+   "type": "Agency",
+   "docs": [
+    "d0042"
+   ]
+  },
+  {
+   "name": "금융감독원",
+   "type": "Agency",
+   "docs": [
+    "d0042"
+   ]
+  },
+  {
+   "name": "경기 고양창릉 B-1블록",
+   "type": "Project",
+   "docs": [
+    "d0043"
+   ]
+  },
+  {
+   "name": "남양주시",
+   "type": "Region",
+   "docs": [
+    "d0043"
+   ]
+  },
+  {
+   "name": "경기 고양시 대곡역 일대",
+   "type": "Project",
+   "docs": [
+    "d0043"
+   ]
+  },
+  {
+   "name": "의왕시 오전동·왕곡동 일원",
+   "type": "Project",
+   "docs": [
+    "d0043"
+   ]
+  },
+  {
+   "name": "풀무원",
+   "type": "Agency",
+   "docs": [
+    "d0044"
+   ]
+  },
+  {
+   "name": "풀무원 공식 온라인 쇼핑몰",
+   "type": "Project",
+   "docs": [
+    "d0044"
+   ]
+  },
+  {
+   "name": "공공임대",
+   "type": "Project",
+   "docs": [
+    "d0045"
+   ]
+  },
+  {
+   "name": "함영진",
+   "type": "Person",
+   "docs": [
+    "d0045"
+   ]
+  },
+  {
+   "name": "양지영",
+   "type": "Person",
+   "docs": [
+    "d0045"
+   ]
+  },
+  {
+   "name": "신한 프리미어 패스파인더",
+   "type": "Agency",
+   "docs": [
+    "d0045"
+   ]
+  },
+  {
+   "name": "김효선",
+   "type": "Person",
+   "docs": [
+    "d0045"
+   ]
+  },
+  {
+   "name": "KB국민은행",
+   "type": "Agency",
+   "docs": [
+    "d0045"
+   ]
+  },
+  {
+   "name": "중소벤처기업부",
+   "type": "Agency",
+   "docs": [
+    "d0046",
+    "d0053",
+    "d0057"
+   ]
+  },
+  {
+   "name": "성장형 사회연대경제기업 활성화 방안",
+   "type": "Policy",
+   "docs": [
+    "d0046"
+   ]
+  },
+  {
+   "name": "초기창업패키지",
+   "type": "Policy",
+   "docs": [
+    "d0046"
+   ]
+  },
+  {
+   "name": "팁스",
+   "type": "Policy",
+   "docs": [
+    "d0046"
+   ]
+  },
+  {
+   "name": "전용자금 신설",
+   "type": "Policy",
+   "docs": [
+    "d0046"
+   ]
+  },
+  {
+   "name": "노용석",
+   "type": "Person",
+   "docs": [
+    "d0046"
+   ]
+  },
+  {
+   "name": "표준건축비",
+   "type": "Policy",
+   "docs": [
+    "d0047"
+   ]
+  },
+  {
+   "name": "LH 임대주택 건설형 공모사업",
+   "type": "Project",
+   "docs": [
+    "d0047"
+   ]
+  },
+  {
+   "name": "LH",
+   "type": "Agency",
+   "docs": [
+    "d0047"
+   ]
+  },
+  {
+   "name": "재개발사업 임대주택 인수가격 상향 정책",
+   "type": "Policy",
+   "docs": [
+    "d0047"
+   ]
+  },
+  {
+   "name": "재개발사업 임대주택",
+   "type": "Project",
+   "docs": [
+    "d0047"
+   ]
+  },
+  {
+   "name": "오리온",
+   "type": "Agency",
+   "docs": [
+    "d0048"
+   ]
+  },
+  {
+   "name": "하반기 신입채용",
+   "type": "Policy",
+   "docs": [
+    "d0048"
+   ]
+  },
+  {
+   "name": "상상스타트업캠프",
+   "type": "Project",
+   "docs": [
+    "d0049"
+   ]
+  },
+  {
+   "name": "KT&G",
+   "type": "Agency",
+   "docs": [
+    "d0049"
+   ]
+  },
+  {
+   "name": "대한상공회의소",
+   "type": "Agency",
+   "docs": [
+    "d0049"
+   ]
+  },
+  {
+   "name": "제3회 대한민국 사회적가치 페스타",
+   "type": "Project",
+   "docs": [
+    "d0049"
+   ]
+  },
+  {
+   "name": "심영아",
+   "type": "Person",
+   "docs": [
+    "d0049"
+   ]
+  },
+  {
+   "name": "KT&G ESG경영실",
+   "type": "Agency",
+   "docs": [
+    "d0049"
+   ]
+  },
+  {
+   "name": "목동 9단지 아파트 재건축사업",
+   "type": "Project",
+   "docs": [
+    "d0050"
+   ]
+  },
+  {
+   "name": "양천구",
+   "type": "Region",
+   "docs": [
+    "d0050"
+   ]
+  },
+  {
+   "name": "목동 13단지 아파트 재건축사업",
+   "type": "Project",
+   "docs": [
+    "d0050"
+   ]
+  },
+  {
+   "name": "서울특별시",
+   "type": "Agency",
+   "docs": [
+    "d0050"
+   ]
+  },
+  {
+   "name": "명노준",
+   "type": "Person",
+   "docs": [
+    "d0050"
+   ]
+  },
+  {
+   "name": "CIBC스퀘어",
+   "type": "Project",
+   "docs": [
+    "d0051"
+   ]
+  },
+  {
+   "name": "토론토",
+   "type": "Region",
+   "docs": [
+    "d0051"
+   ]
+  },
+  {
+   "name": "국민연금",
+   "type": "Agency",
+   "docs": [
+    "d0051"
+   ]
+  },
+  {
+   "name": "하인즈",
+   "type": "Agency",
+   "docs": [
+    "d0051"
+   ]
+  },
+  {
+   "name": "한국해양교통안전공단",
+   "type": "Agency",
+   "docs": [
+    "d0052"
+   ]
+  },
+  {
+   "name": "여객선 운항예보",
+   "type": "Policy",
+   "docs": [
+    "d0052"
+   ]
+  },
+  {
+   "name": "터미널 혼잡정보",
+   "type": "Policy",
+   "docs": [
+    "d0052"
+   ]
+  },
+  {
+   "name": "해수부",
+   "type": "Agency",
+   "docs": [
+    "d0052"
+   ]
+  },
+  {
+   "name": "특별교통대책기간",
+   "type": "Policy",
+   "docs": [
+    "d0052"
+   ]
+  },
+  {
+   "name": "여수세계섬박람회",
+   "type": "Project",
+   "docs": [
+    "d0052"
+   ]
+  },
+  {
+   "name": "여수",
+   "type": "Region",
+   "docs": [
+    "d0052"
+   ]
+  },
+  {
+   "name": "여수~함구미 항로",
+   "type": "Project",
+   "docs": [
+    "d0052"
+   ]
+  },
+  {
+   "name": "여수~연도 항로",
+   "type": "Project",
+   "docs": [
+    "d0052"
+   ]
+  },
+  {
+   "name": "안영철",
+   "type": "Person",
+   "docs": [
+    "d0052"
+   ]
+  },
+  {
+   "name": "이소영",
+   "type": "Person",
+   "docs": [
+    "d0053"
+   ]
+  },
+  {
+   "name": "국회 산업통상자원중소벤처기업위원회",
+   "type": "Agency",
+   "docs": [
+    "d0053"
+   ]
+  },
+  {
+   "name": "인사청문 경과보고서 채택",
+   "type": "Policy",
+   "docs": [
+    "d0053"
+   ]
+  },
+  {
+   "name": "최승호",
+   "type": "Person",
+   "docs": [
+    "d0053"
+   ]
+  },
+  {
+   "name": "삼성그룹 초기업노동조합 삼성전자지부",
+   "type": "Agency",
+   "docs": [
+    "d0053"
+   ]
+  },
+  {
+   "name": "이기승",
+   "type": "Person",
+   "docs": [
+    "d0053"
+   ]
+  },
+  {
+   "name": "BS그룹",
+   "type": "Agency",
+   "docs": [
+    "d0053"
+   ]
+  },
+  {
+   "name": "김병주",
+   "type": "Person",
+   "docs": [
+    "d0053"
+   ]
+  },
+  {
+   "name": "MBK파트너스",
+   "type": "Agency",
+   "docs": [
+    "d0053"
+   ]
+  },
+  {
+   "name": "정우신",
+   "type": "Person",
+   "docs": [
+    "d0053"
+   ]
+  },
+  {
+   "name": "민간사업협력처",
+   "type": "Project",
+   "docs": [
+    "d0053"
+   ]
+  },
+  {
+   "name": "호남 반도체 클러스터 투자계획 발표",
+   "type": "Policy",
+   "docs": [
+    "d0053"
+   ]
+  },
+  {
+   "name": "김성원",
+   "type": "Person",
+   "docs": [
+    "d0053"
+   ]
+  },
+  {
+   "name": "전남광주통합특별시",
+   "type": "Region",
+   "docs": [
+    "d0054"
+   ]
+  },
+  {
+   "name": "소상공인 1천억원 추가 지원",
+   "type": "Project",
+   "docs": [
+    "d0054"
+   ]
+  },
+  {
+   "name": "원금 상환 1년 유예",
+   "type": "Policy",
+   "docs": [
+    "d0054"
+   ]
+  },
+  {
+   "name": "힐스테이트 성남메트로블",
+   "type": "Project",
+   "docs": [
+    "d0055"
+   ]
+  },
+  {
+   "name": "성남시 수정구 단대동",
+   "type": "Region",
+   "docs": [
+    "d0055"
+   ]
+  },
+  {
+   "name": "현대엔지니어링",
+   "type": "Agency",
+   "docs": [
+    "d0055"
+   ]
+  },
+  {
+   "name": "성남 법조타운",
+   "type": "Project",
+   "docs": [
+    "d0055"
+   ]
+  },
+  {
+   "name": "수원지방법원 성남지원",
+   "type": "Agency",
+   "docs": [
+    "d0055"
+   ]
+  },
+  {
+   "name": "성남시 수정구 신흥동 옛 성남산업단지 제1공단 부지",
+   "type": "Region",
+   "docs": [
+    "d0055"
+   ]
+  },
+  {
+   "name": "수원지방검찰청 성남지청",
+   "type": "Agency",
+   "docs": [
+    "d0055"
+   ]
+  },
+  {
+   "name": "성남세무서",
+   "type": "Agency",
+   "docs": [
+    "d0055"
+   ]
+  },
+  {
+   "name": "부산상공회의소",
+   "type": "Agency",
+   "docs": [
+    "d0056"
+   ]
+  },
+  {
+   "name": "산업은행",
+   "type": "Project",
+   "docs": [
+    "d0056"
+   ]
+  },
+  {
+   "name": "부산",
+   "type": "Region",
+   "docs": [
+    "d0056"
+   ]
+  },
+  {
+   "name": "민주당 부산시당",
+   "type": "Agency",
+   "docs": [
+    "d0056"
+   ]
+  },
+  {
+   "name": "한국수출입은행",
+   "type": "Project",
+   "docs": [
+    "d0056"
+   ]
+  },
+  {
+   "name": "민주당 부산시당 2차 공공기관 유치 특별위원회 유동철 위원장",
+   "type": "Person",
+   "docs": [
+    "d0056"
+   ]
+  },
+  {
+   "name": "이재명 대통령",
+   "type": "Person",
+   "docs": [
+    "d0056"
+   ]
+  },
+  {
+   "name": "경제수도 서울 정책",
+   "type": "Policy",
+   "docs": [
+    "d0056"
+   ]
+  },
+  {
+   "name": "금융노조",
+   "type": "Agency",
+   "docs": [
+    "d0056"
+   ]
+  },
+  {
+   "name": "IBK기업은행",
+   "type": "Project",
+   "docs": [
+    "d0056"
+   ]
+  },
+  {
+   "name": "한국산업은행",
+   "type": "Project",
+   "docs": [
+    "d0056"
+   ]
+  },
+  {
+   "name": "윤석구 금융노조 위원장",
+   "type": "Person",
+   "docs": [
+    "d0056"
+   ]
+  },
+  {
+   "name": "소상공인기본법 일부개정안",
+   "type": "Policy",
+   "docs": [
+    "d0057"
+   ]
+  },
+  {
+   "name": "소상공인 지원정책",
+   "type": "Policy",
+   "docs": [
+    "d0057"
+   ]
+  },
+  {
+   "name": "소상공인 데이터 활용",
+   "type": "Project",
+   "docs": [
+    "d0057"
+   ]
+  },
+  {
+   "name": "연금 스테이션 팝업",
+   "type": "Project",
+   "docs": [
+    "d0058"
+   ]
+  },
+  {
+   "name": "광화문 청계광장",
+   "type": "Region",
+   "docs": [
+    "d0058"
+   ]
+  },
+  {
+   "name": "한국투자증권",
+   "type": "Agency",
+   "docs": [
+    "d0058"
+   ]
+  },
+  {
+   "name": "래미안 레비르 성수",
+   "type": "Project",
+   "docs": [
+    "d0059"
+   ]
+  },
+  {
+   "name": "성수3지구",
+   "type": "Region",
+   "docs": [
+    "d0059"
+   ]
+  },
+  {
+   "name": "주택영업본부",
+   "type": "Agency",
+   "docs": [
+    "d0059"
+   ]
+  },
+  {
+   "name": "텀블러릿지 학교 총기 난사 사건",
+   "type": "Project",
+   "docs": [
+    "d0060"
+   ]
+  },
+  {
+   "name": "텀블러릿지",
+   "type": "Region",
+   "docs": [
+    "d0060"
+   ]
+  },
+  {
+   "name": "캐나다 브리티시컬럼비아(B.C.)주 정부",
+   "type": "Agency",
+   "docs": [
+    "d0060"
+   ]
+  },
+  {
+   "name": "소송",
+   "type": "Policy",
+   "docs": [
+    "d0060"
+   ]
+  },
+  {
+   "name": "제조물 책임법 위반",
+   "type": "Policy",
+   "docs": [
+    "d0060"
+   ]
+  },
+  {
+   "name": "대량 총기 난사 방조 혐의",
+   "type": "Policy",
+   "docs": [
+    "d0060"
+   ]
+  },
+  {
+   "name": "오픈AI",
+   "type": "Agency",
+   "docs": [
+    "d0060"
+   ]
+  },
+  {
+   "name": "샘 알트만",
+   "type": "Person",
+   "docs": [
+    "d0060"
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "s": "상계주공7단지 재건축사업",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "노원구",
+   "o_type": "Region",
+   "doc": "d0001",
+   "quote": "서울 노원구 상계주공7단지 재건축사업이 조합설립추진위원회 승인을 받으면서 정비계획 수립과 조합설립을 위한 주민 동의 절차에 속도를 내게 됐다."
+  },
+  {
+   "s": "노원구",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "상계주공7단지 재건축사업",
+   "o_type": "Project",
+   "doc": "d0001",
+   "quote": "노원구는 지난 10일 상계주공7단지 재건축 추진위원회 승인을 고시했다."
+  },
+  {
+   "s": "도시 및 주거환경정비법",
+   "s_type": "Policy",
+   "rel": "UNDER_POLICY",
+   "o": "상계주공7단지 재건축사업",
+   "o_type": "Project",
+   "doc": "d0001",
+   "quote": "지난해 도시 및 주거환경정비법이 개정되면서 정비구역 지정 전에도 추진위원회를 구성할 수 있게 됐다."
+  },
+  {
+   "s": "목동 재건축",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "서울특별시",
+   "o_type": "Region",
+   "doc": "d0002",
+   "quote": "서울 목동 신시가지 재건축 사업이 본격화되면서 건설사들의 수주 경쟁이 단순한 ‘하이엔드 브랜드’ 간판 붙이기를 넘어 실질적인 주거 상품성(설계·커뮤니티) 차별화로 전환되고 있다."
+  },
+  {
+   "s": "삼성물산",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "목동 재건축",
+   "o_type": "Project",
+   "doc": "d0002",
+   "quote": "삼성물산은 미국 SMDP, 현대건설은 모포시스·사사키와 협업안을 발표했으며 GS건설은 겐슬러, 대우건설은 덴마크 어반 에이전시 및 아룹·슈퍼매스 스튜디오 등과 손을 잡았다."
+  },
+  {
+   "s": "현대건설",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "목동 재건축",
+   "o_type": "Project",
+   "doc": "d0002",
+   "quote": "삼성물산은 미국 SMDP, 현대건설은 모포시스·사사키와 협업안을 발표했으며 GS건설은 겐슬러, 대우건설은 덴마크 어반 에이전시 및 아룹·슈퍼매스 스튜디오 등과 손을 잡았다."
+  },
+  {
+   "s": "GS건설",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "목동 재건축",
+   "o_type": "Project",
+   "doc": "d0002",
+   "quote": "삼성물산은 미국 SMDP, 현대건설은 모포시스·사사키와 협업안을 발표했으며 GS건설은 겐슬러, 대우건설은 덴마크 어반 에이전시 및 아룹·슈퍼매스 스튜디오 등과 손을 잡았다."
+  },
+  {
+   "s": "대우건설",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "목동 재건축",
+   "o_type": "Project",
+   "doc": "d0002",
+   "quote": "삼성물산은 미국 SMDP, 현대건설은 모포시스·사사키와 협업안을 발표했으며 GS건설은 겐슬러, 대우건설은 덴마크 어반 에이전시 및 아룹·슈퍼매스 스튜디오 등과 손을 잡았다."
+  },
+  {
+   "s": "디에이치 퍼스티어 아이파크",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "강남구 개포동",
+   "o_type": "Region",
+   "doc": "d0002",
+   "quote": "대표적으로 강남구 개포동 ‘디에이치 퍼스티어 아이파크’는 10레인 실내수영장과 영화관, 볼링장 등 대규모 커뮤니티를 조성해 지역 내 시세를 주도하는 대표 단지로 자리 잡았다."
+  },
+  {
+   "s": "디에이치 퍼스티어 아이파크",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "현대건설",
+   "o_type": "Agency",
+   "doc": "d0002",
+   "quote": "대표적으로 강남구 개포동 ‘디에이치 퍼스티어 아이파크’는 10레인 실내수영장과 영화관, 볼링장 등 대규모 커뮤니티를 조성해 지역 내 시세를 주도하는 대표 단지로 자리 잡았다."
+  },
+  {
+   "s": "삼성물산",
+   "s_type": "Agency",
+   "rel": "ANNOUNCED",
+   "o": "래미안 브랜드 전략",
+   "o_type": "Policy",
+   "doc": "d0002",
+   "quote": "삼성물산은 별도의 하이엔드 브랜드 대신 ‘래미안’을 기반으로 반포 '래미안 원베일리', 한남4구역 '래미안 글로우힐즈 한남' 등 단지별 고유 명칭을 부여하는 전략을 목동에도 적용할 방침이다."
+  },
+  {
+   "s": "래미안 브랜드 전략",
+   "s_type": "Policy",
+   "rel": "UNDER_POLICY",
+   "o": "목동 재건축",
+   "o_type": "Project",
+   "doc": "d0002",
+   "quote": "삼성물산은 별도의 하이엔드 브랜드 대신 ‘래미안’을 기반으로 반포 '래미안 원베일리', 한남4구역 '래미안 글로우힐즈 한남' 등 단지별 고유 명칭을 부여하는 전략을 목동에도 적용할 방침이다."
+  },
+  {
+   "s": "IPARK현대산업개발",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "더 라인 330",
+   "o_type": "Project",
+   "doc": "d0002",
+   "quote": "IPARK현대산업개발과 대우건설 역시 용산정비창 전면1구역에서 330m 스카이라인 커뮤니티 구상을 담은 ‘더 라인 330’이나 520m 한강 조망 라인을 상징하는 ‘더 성수 520’과 같이 사업지 고유의 상징성을 강조한 프로젝트 브랜드를 제안하는 추세다."
+  },
+  {
+   "s": "대우건설",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "더 라인 330",
+   "o_type": "Project",
+   "doc": "d0002",
+   "quote": "IPARK현대산업개발과 대우건설 역시 용산정비창 전면1구역에서 330m 스카이라인 커뮤니티 구상을 담은 ‘더 라인 330’이나 520m 한강 조망 라인을 상징하는 ‘더 성수 520’과 같이 사업지 고유의 상징성을 강조한 프로젝트 브랜드를 제안하는 추세다."
+  },
+  {
+   "s": "대우건설",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "더 성수 520",
+   "o_type": "Project",
+   "doc": "d0002",
+   "quote": "IPARK현대산업개발과 대우건설 역시 용산정비창 전면1구역에서 330m 스카이라인 커뮤니티 구상을 담은 ‘더 라인 330’이나 520m 한강 조망 라인을 상징하는 ‘더 성수 520’과 같이 사업지 고유의 상징성을 강조한 프로젝트 브랜드를 제안하는 추세다."
+  },
+  {
+   "s": "IPARK현대산업개발",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "더 성수 520",
+   "o_type": "Project",
+   "doc": "d0002",
+   "quote": "IPARK현대산업개발과 대우건설 역시 용산정비창 전면1구역에서 330m 스카이라인 커뮤니티 구상을 담은 ‘더 라인 330’이나 520m 한강 조망 라인을 상징하는 ‘더 성수 520’과 같이 사업지 고유의 상징성을 강조한 프로젝트 브랜드를 제안하는 추세다."
+  },
+  {
+   "s": "백범김구기념관",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "효창공원",
+   "o_type": "Region",
+   "doc": "d0003",
+   "quote": "우리은행이 백범 김구 선생 탄생 150주년을 맞아 백범김구기념관, 효창공원 일대에서 걷기 행사를 열었다고 22일 밝혔다."
+  },
+  {
+   "s": "우리은행",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "백범김구기념관",
+   "o_type": "Project",
+   "doc": "d0003",
+   "quote": "우리은행이 백범 김구 선생 탄생 150주년을 맞아 백범김구기념관, 효창공원 일대에서 걷기 행사를 열었다고 22일 밝혔다."
+  },
+  {
+   "s": "우리은행",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "2026 투게더 걷기 캠페인",
+   "o_type": "Project",
+   "doc": "d0003",
+   "quote": "2026 투게더 걷기 캠페인은 세계평화의 날인 21일 열렸다."
+  },
+  {
+   "s": "유네스코한국위원회",
+   "s_type": "Agency",
+   "rel": "ROLE_IN",
+   "o": "홍현익",
+   "o_type": "Person",
+   "doc": "d0003",
+   "quote": "홍현익 유네스코한국위원회 사무총장, 강윤진 국가보훈부 차관, 김미 백범김구기념관장, 박유철 백범김구선생기념사업협회장 등이 행사에 참석했다."
+  },
+  {
+   "s": "우리은행",
+   "s_type": "Agency",
+   "rel": "ROLE_IN",
+   "o": "정진완",
+   "o_type": "Person",
+   "doc": "d0003",
+   "quote": "정진완 우리은행장을 비롯해 홍현익 유네스코한국위원회 사무총장, 강윤진 국가보훈부 차관, 김미 백범김구기념관장, 박유철 백범김구선생기념사업협회장 등이 행사에 참석했다."
+  },
+  {
+   "s": "우리은행",
+   "s_type": "Agency",
+   "rel": "UNDER_POLICY",
+   "o": "문화유산 보존 사업",
+   "o_type": "Policy",
+   "doc": "d0003",
+   "quote": "우리은행은 문화유산 보존 사업을 후원 중이다."
+  },
+  {
+   "s": "우리은행",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "문화유산 보존 사업",
+   "o_type": "Policy",
+   "doc": "d0003",
+   "quote": "우리은행은 문화유산 보존 사업을 후원 중이다."
+  },
+  {
+   "s": "유네스코한국위원회",
+   "s_type": "Agency",
+   "rel": "ANNOUNCED",
+   "o": "백범 김구 탄생 150주년 기념해 지정",
+   "o_type": "Policy",
+   "doc": "d0003",
+   "quote": "유네스코가 올해를 백범 김구 탄생 150주년 기념해로 공식 지정한 데 따라 이번 행사를 마련했다."
+  },
+  {
+   "s": "장동혁",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "국민의힘",
+   "o_type": "Agency",
+   "doc": "d0004",
+   "quote": "장동혁 국민의힘 대표가 22일 정부가 농지 전수조사에 대한 보완책을 내놓은 것을 두고..."
+  },
+  {
+   "s": "농지 전수조사",
+   "s_type": "Project",
+   "rel": "UNDER_POLICY",
+   "o": "특별조치법",
+   "o_type": "Policy",
+   "doc": "d0004",
+   "quote": "불법 전용농지 양성화와 처분 유예 등에 필요한 법적 근거를 마련하기 위해 연내 특별조치법 제정도 추진하기로 했다."
+  },
+  {
+   "s": "공소청",
+   "s_type": "Project",
+   "rel": "UNDER_POLICY",
+   "o": "검사정원법 시행령",
+   "o_type": "Policy",
+   "doc": "d0005",
+   "quote": "법무부는 지난 4∼9일 입법예고한 '공소청과 그 소속기관 직제'와 '검사정원법 시행령' 수정안이 국무회의에서 의결됐다고 22일 밝혔다."
+  },
+  {
+   "s": "공소청",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "법무부",
+   "o_type": "Agency",
+   "doc": "d0005",
+   "quote": "법무부는 지난 4∼9일 입법예고한 '공소청과 그 소속기관 직제'와 '검사정원법 시행령' 수정안이 국무회의에서 의결됐다고 22일 밝혔다."
+  },
+  {
+   "s": "이재명",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "대한민국 대통령",
+   "o_type": "Agency",
+   "doc": "d0005",
+   "quote": "이재명 대통령은 22일 \"강남불패, 부동산투기 공화국은 이제 과거 이야기가 될 것\"이라며 \"반드시 그래야 한다\"고 밝혔다."
+  },
+  {
+   "s": "주거안정플랜",
+   "s_type": "Policy",
+   "rel": "ANNOUNCED",
+   "o": "대한민국 정부",
+   "o_type": "Agency",
+   "doc": "d0005",
+   "quote": "이 대통령은 이날 엑스(X·옛 트위터)에서 정부가 전날 발표한 '주거안정플랜'의 내용을 소개한 글을 공유하며 이같이 적었다."
+  },
+  {
+   "s": "직방",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "집코노미 박람회 2026",
+   "o_type": "Project",
+   "doc": "d0006",
+   "quote": "부동산 플랫폼 직방은 오는 9월 30일부터 10월 1일까지 서울 코엑스에서 열리는 '집코노미 박람회 2026'에 참가해 '내집얼마'·'청약진단'·'단기임대' 3개 서비스를 소개한다."
+  },
+  {
+   "s": "집코노미 박람회 2026",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "서울특별시",
+   "o_type": "Region",
+   "doc": "d0006",
+   "quote": "부동산 플랫폼 직방은 오는 9월 30일부터 10월 1일까지 서울 코엑스에서 열리는 '집코노미 박람회 2026'에 참가해 '내집얼마'·'청약진단'·'단기임대' 3개 서비스를 소개한다."
+  },
+  {
+   "s": "장우철",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "국토교통부",
+   "o_type": "Agency",
+   "doc": "d0006",
+   "quote": "첫날에는 장우철 국토교통부 주택정책관과 허윤경 한국건설산업연구원 연구위원, 이창무 한양대 도시공학과 교수가 정책 세미나 토론자로 나선다."
+  },
+  {
+   "s": "허윤경",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "한국건설산업연구원",
+   "o_type": "Agency",
+   "doc": "d0006",
+   "quote": "첫날에는 장우철 국토교통부 주택정책관과 허윤경 한국건설산업연구원 연구위원, 이창무 한양대 도시공학과 교수가 정책 세미나 토론자로 나선다."
+  },
+  {
+   "s": "이창무",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "한양대",
+   "o_type": "Agency",
+   "doc": "d0006",
+   "quote": "첫날에는 장우철 국토교통부 주택정책관과 허윤경 한국건설산업연구원 연구위원, 이창무 한양대 도시공학과 교수가 정책 세미나 토론자로 나선다."
+  },
+  {
+   "s": "메밀단편 판교점",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "경기 성남시 판교",
+   "o_type": "Region",
+   "doc": "d0007",
+   "quote": "교촌에프앤비는 지난 16일 경기 성남시 판교에 위치한 ‘교촌1991빌딩’ 2층에 ‘메밀단편 판교점’을 출점했다고 22일 밝혔다."
+  },
+  {
+   "s": "메밀단편 판교점",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "교촌에프앤비",
+   "o_type": "Agency",
+   "doc": "d0007",
+   "quote": "교촌치킨을 운영하는 교촌에프앤비의 메밀요리 브랜드 ‘메밀단편’이 경기 판교에 네 번째 매장을 열고 오피스 상권 직장인 수요 공략에 나섰다."
+  },
+  {
+   "s": "카카오페이",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "원화 스테이블코인",
+   "o_type": "Project",
+   "doc": "d0008",
+   "quote": "카카오페이와 카카오뱅크가 22일 글로벌 디지털 자산 인프라 기업 파이어블록스와 업무협약(MOU)을 맺고, 국내 디지털 자산 인프라 구축에 나선다고 밝혔다."
+  },
+  {
+   "s": "카카오뱅크",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "원화 스테이블코인",
+   "o_type": "Project",
+   "doc": "d0008",
+   "quote": "카카오페이와 카카오뱅크가 22일 글로벌 디지털 자산 인프라 기업 파이어블록스와 업무협약(MOU)을 맺고, 국내 디지털 자산 인프라 구축에 나선다고 밝혔다."
+  },
+  {
+   "s": "파이어블록스",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "원화 스테이블코인",
+   "o_type": "Project",
+   "doc": "d0008",
+   "quote": "카카오페이와 카카오뱅크가 22일 글로벌 디지털 자산 인프라 기업 파이어블록스와 업무협약(MOU)을 맺고, 국내 디지털 자산 인프라 구축에 나선다고 밝혔다."
+  },
+  {
+   "s": "카카오그룹",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "원화 스테이블코인",
+   "o_type": "Project",
+   "doc": "d0008",
+   "quote": "앞서 카카오그룹은 지난 7월 스테이블코인 USDC 발행사 서클 인터넷 그룹과도 MOU를 체결하고 원화 스테이블코인 등 블록체인 기반 결제 인프라 협력에 나선 바 있다."
+  },
+  {
+   "s": "서클 인터넷 그룹",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "원화 스테이블코인",
+   "o_type": "Project",
+   "doc": "d0008",
+   "quote": "앞서 카카오그룹은 지난 7월 스테이블코인 USDC 발행사 서클 인터넷 그룹과도 MOU를 체결하고 원화 스테이블코인 등 블록체인 기반 결제 인프라 협력에 나선 바 있다."
+  },
+  {
+   "s": "마이클 샤울로프",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "파이어블록스",
+   "o_type": "Agency",
+   "doc": "d0008",
+   "quote": "마이클 샤울로프(Michael Shaulov) 파이어블록스 CEO 및 공동 창립자는 “한국의 은행 및 결제 플랫폼에 있어, 초기 단계부터 기관급 요구 사항을 충족하도록 설계된 신뢰할 수 있는 디지털 자산 인프라를 활용하는 것은 매우 중요하다”고 밝혔다."
+  },
+  {
+   "s": "윤호영",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "카카오뱅크",
+   "o_type": "Agency",
+   "doc": "d0008",
+   "quote": "윤호영 카카오뱅크 대표이사 겸 카카오그룹 스테이블코인 공동 TF장은 “글로벌 디지털 자산 인프라 분야에서 경쟁력을 갖춘 파이어블록스와 협력하게 돼 뜻깊게 생각한다”고 전했다."
+  },
+  {
+   "s": "신원근",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "카카오페이",
+   "o_type": "Agency",
+   "doc": "d0008",
+   "quote": "신원근 카카오페이 대표이사 겸 카카오그룹 스테이블코인 공동 TF장은 “신생 국내 디지털 자산 시장의 성패는 생태계의 혈류인 디지털 자산 유통이 얼마나 원활하게 일어나는가에 달려있다”고 말했다."
+  },
+  {
+   "s": "항만운송사업법 시행령",
+   "s_type": "Policy",
+   "rel": "ANNOUNCED",
+   "o": "해양수산부",
+   "o_type": "Agency",
+   "doc": "d0009",
+   "quote": "해양수산부는 22일 국무회의에서 항만운송사업법 시행령 일부 개정안이 통과됐다고 밝혔다."
+  },
+  {
+   "s": "친환경 선박 연료 공급업",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "해양수산부",
+   "o_type": "Agency",
+   "doc": "d0009",
+   "quote": "선박 연료 공급업을 연료 종류에 따라 '친환경 선박 연료 공급업'과 '일반 선박 연료 공급업'으로 구분했다."
+  },
+  {
+   "s": "GTX-A노선",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "파주 운정중앙",
+   "o_type": "Region",
+   "doc": "d0010",
+   "quote": "GTX-A는 파주 운정중앙역에서 화성 동탄역까지 82.3㎞를 잇는 노선이다."
+  },
+  {
+   "s": "GTX-A노선",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "화성 동탄",
+   "o_type": "Region",
+   "doc": "d0010",
+   "quote": "GTX-A는 파주 운정중앙역에서 화성 동탄역까지 82.3㎞를 잇는 노선이다."
+  },
+  {
+   "s": "GTX-A노선",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "국토교통부",
+   "o_type": "Agency",
+   "doc": "d0010",
+   "quote": "국토교통부와 국가철도공단은 오는 30일 서울 삼성동 코엑스에서 개막하는 ‘집코노미 박람회 2026’에서 GTX 전 노선의 사업 추진 현황과 개통 효과를 소개한다."
+  },
+  {
+   "s": "GTX-A노선",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "국가철도공단",
+   "o_type": "Agency",
+   "doc": "d0010",
+   "quote": "국토교통부와 국가철도공단은 오는 30일 서울 삼성동 코엑스에서 개막하는 ‘집코노미 박람회 2026’에서 GTX 전 노선의 사업 추진 현황과 개통 효과를 소개한다."
+  },
+  {
+   "s": "GTX-B노선",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "인천대입구",
+   "o_type": "Region",
+   "doc": "d0010",
+   "quote": "GTX-B노선은 인천대입구역에서 남양주 마석역까지 82.8㎞ 구간에 정거장 14개를 짓는다."
+  },
+  {
+   "s": "GTX-B노선",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "남양주 마석",
+   "o_type": "Region",
+   "doc": "d0010",
+   "quote": "GTX-B노선은 인천대입구역에서 남양주 마석역까지 82.8㎞ 구간에 정거장 14개를 짓는다."
+  },
+  {
+   "s": "GTX-B노선",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "국토교통부",
+   "o_type": "Agency",
+   "doc": "d0010",
+   "quote": "국토교통부와 국가철도공단은 오는 30일 서울 삼성동 코엑스에서 개막하는 ‘집코노미 박람회 2026’에서 GTX 전 노선의 사업 추진 현황과 개통 효과를 소개한다."
+  },
+  {
+   "s": "GTX-B노선",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "국가철도공단",
+   "o_type": "Agency",
+   "doc": "d0010",
+   "quote": "국토교통부와 국가철도공단은 오는 30일 서울 삼성동 코엑스에서 개막하는 ‘집코노미 박람회 2026’에서 GTX 전 노선의 사업 추진 현황과 개통 효과를 소개한다."
+  },
+  {
+   "s": "GTX-C노선",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "수원",
+   "o_type": "Region",
+   "doc": "d0010",
+   "quote": "수원역과 양주 덕정역을 잇는 GTX-C노선(86.5㎞)은 지난 4월 사전 작업이 가능한 구간부터 우선 착공한 데 이어 이달 본공사에 들어갔다."
+  },
+  {
+   "s": "GTX-C노선",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "양주 덕정",
+   "o_type": "Region",
+   "doc": "d0010",
+   "quote": "수원역과 양주 덕정역을 잇는 GTX-C노선(86.5㎞)은 지난 4월 사전 작업이 가능한 구간부터 우선 착공한 데 이어 이달 본공사에 들어갔다."
+  },
+  {
+   "s": "GTX-C노선",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "국토교통부",
+   "o_type": "Agency",
+   "doc": "d0010",
+   "quote": "국토교통부와 국가철도공단은 오는 30일 서울 삼성동 코엑스에서 개막하는 ‘집코노미 박람회 2026’에서 GTX 전 노선의 사업 추진 현황과 개통 효과를 소개한다."
+  },
+  {
+   "s": "GTX-C노선",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "국가철도공단",
+   "o_type": "Agency",
+   "doc": "d0010",
+   "quote": "국토교통부와 국가철도공단은 오는 30일 서울 삼성동 코엑스에서 개막하는 ‘집코노미 박람회 2026’에서 GTX 전 노선의 사업 추진 현황과 개통 효과를 소개한다."
+  },
+  {
+   "s": "국토교통부",
+   "s_type": "Agency",
+   "rel": "ANNOUNCED",
+   "o": "집코노미 박람회 2026",
+   "o_type": "Policy",
+   "doc": "d0010",
+   "quote": "국토교통부와 국가철도공단은 오는 30일 서울 삼성동 코엑스에서 개막하는 ‘집코노미 박람회 2026’에서 GTX 전 노선의 사업 추진 현황과 개통 효과를 소개한다."
+  },
+  {
+   "s": "국가철도공단",
+   "s_type": "Agency",
+   "rel": "ANNOUNCED",
+   "o": "집코노미 박람회 2026",
+   "o_type": "Policy",
+   "doc": "d0010",
+   "quote": "국토교통부와 국가철도공단은 오는 30일 서울 삼성동 코엑스에서 개막하는 ‘집코노미 박람회 2026’에서 GTX 전 노선의 사업 추진 현황과 개통 효과를 소개한다."
+  },
+  {
+   "s": "우리동네국민상회",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "본사",
+   "o_type": "Agency",
+   "doc": "d0011",
+   "quote": "모델료·제작비 전액 본사 부담, 가맹점엔 비용 부담 없는 캠페인 설계"
+  },
+  {
+   "s": "김신영",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "우리동네국민상회",
+   "o_type": "Project",
+   "doc": "d0011",
+   "quote": "코미디언 김신영·이선민과 배우 구성환을 신규 광고 모델로 선정하고 브랜드 캠페인에 나선다."
+  },
+  {
+   "s": "이선민",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "우리동네국민상회",
+   "o_type": "Project",
+   "doc": "d0011",
+   "quote": "코미디언 김신영·이선민과 배우 구성환을 신규 광고 모델로 선정하고 브랜드 캠페인에 나선다."
+  },
+  {
+   "s": "구성환",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "우리동네국민상회",
+   "o_type": "Project",
+   "doc": "d0011",
+   "quote": "코미디언 김신영·이선민과 배우 구성환을 신규 광고 모델로 선정하고 브랜드 캠페인에 나선다."
+  },
+  {
+   "s": "신분평 에피트 더웨이시티",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "청주시 서원구 장성동 신분평 도시개발구역 A2블록",
+   "o_type": "Region",
+   "doc": "d0012",
+   "quote": "HL디앤아이한라는 다음달 청주시 서원구 장성동 신분평 도시개발구역 A2블록에 ‘신분평 에피트 더웨이시티’를 분양한다고 22일 밝혔다."
+  },
+  {
+   "s": "신분평 에피트 더웨이시티",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "HL디앤아이한라",
+   "o_type": "Agency",
+   "doc": "d0012",
+   "quote": "HL디앤아이한라는 다음달 청주시 서원구 장성동 신분평 도시개발구역 A2블록에 ‘신분평 에피트 더웨이시티’를 분양한다고 22일 밝혔다."
+  },
+  {
+   "s": "신분평지구",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "청주 남부권",
+   "o_type": "Region",
+   "doc": "d0012",
+   "quote": "사업지가 위치한 신분평지구는 청주 남부권 최대 규모의 도시개발사업이다."
+  },
+  {
+   "s": "HL디앤아이한라",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "신분평 에피트 더웨이시티",
+   "o_type": "Project",
+   "doc": "d0012",
+   "quote": "HL디앤아이한라는 다음달 청주시 서원구 장성동 신분평 도시개발구역 A2블록에 ‘신분평 에피트 더웨이시티’를 분양한다고 22일 밝혔다."
+  },
+  {
+   "s": "청주하나병원",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "의료 편의 서비스",
+   "o_type": "Policy",
+   "doc": "d0012",
+   "quote": "HM그룹(시행)은 입주민 의료 편의 서비스 제공을 위해 청주하나병원과 업무협약을 체결했다."
+  },
+  {
+   "s": "철산자이 더 헤리티지",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "광명시",
+   "o_type": "Region",
+   "doc": "d0013",
+   "quote": "경기 광명시 '철산자이 더 헤리티지'가 7억~8억원대에 무순위 청약으로 나온다."
+  },
+  {
+   "s": "철산자이 더 헤리티지",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "한국부동산원 청약홈",
+   "o_type": "Agency",
+   "doc": "d0013",
+   "quote": "22일 한국부동산원 청약홈에 따르면 철산자이 더 헤리티지 미계약 물량 4가구의 무순위 청약이 이날 오전 9시부터 오후 5시30분까지 진행된다."
+  },
+  {
+   "s": "철산자이 더 헤리티지",
+   "s_type": "Project",
+   "rel": "UNDER_POLICY",
+   "o": "분양가상한제",
+   "o_type": "Policy",
+   "doc": "d0013",
+   "quote": "다만 분양가상한제 적용 단지여서 2027년 5월30일까지 거주의무가 적용된다."
+  },
+  {
+   "s": "철산자이 브리에르",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "광명시",
+   "o_type": "Region",
+   "doc": "d0013",
+   "quote": "인근 '철산자이 브리에르'에서도 2가구가 다시 공급된다."
+  },
+  {
+   "s": "철산자이 브리에르",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "한국부동산원 청약홈",
+   "o_type": "Agency",
+   "doc": "d0013",
+   "quote": "22일 한국부동산원 청약홈에 따르면 철산자이 더 헤리티지 미계약 물량 4가구의 무순위 청약이 이날 오전 9시부터 오후 5시30분까지 진행된다."
+  },
+  {
+   "s": "철산자이 브리에르",
+   "s_type": "Project",
+   "rel": "UNDER_POLICY",
+   "o": "청약 재당첨 제한",
+   "o_type": "Policy",
+   "doc": "d0013",
+   "quote": "청약 재당첨 제한은 10년이다."
+  },
+  {
+   "s": "채스우드 초고층 아파트 개발 사업",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "채스우드",
+   "o_type": "Region",
+   "doc": "d0014",
+   "quote": "현대건설은 한국해외인프라도시개발지원공사(KIND), 한투리얼에셋과 호주 시드니 채스우드 초고층 아파트 개발 사업 투자계약을 체결했다고 22일 밝혔다."
+  },
+  {
+   "s": "채스우드 초고층 아파트 개발 사업",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "현대건설",
+   "o_type": "Agency",
+   "doc": "d0014",
+   "quote": "현대건설은 한국해외인프라도시개발지원공사(KIND), 한투리얼에셋과 호주 시드니 채스우드 초고층 아파트 개발 사업 투자계약을 체결했다고 22일 밝혔다."
+  },
+  {
+   "s": "채스우드 초고층 아파트 개발 사업",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "한국해외인프라도시개발지원공사",
+   "o_type": "Agency",
+   "doc": "d0014",
+   "quote": "현대건설은 한국해외인프라도시개발지원공사(KIND), 한투리얼에셋과 호주 시드니 채스우드 초고층 아파트 개발 사업 투자계약을 체결했다고 22일 밝혔다."
+  },
+  {
+   "s": "채스우드 초고층 아파트 개발 사업",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "한투리얼에셋",
+   "o_type": "Agency",
+   "doc": "d0014",
+   "quote": "현대건설은 한국해외인프라도시개발지원공사(KIND), 한투리얼에셋과 호주 시드니 채스우드 초고층 아파트 개발 사업 투자계약을 체결했다고 22일 밝혔다."
+  },
+  {
+   "s": "2026년 한반도 단풍절정 예측지도",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "산림청",
+   "o_type": "Agency",
+   "doc": "d0015",
+   "quote": "산림청은 22일 이 같은 내용의 전국 주요 산림과 수목원의 단풍 절정 시기를 담은 ‘2026년 한반도 단풍절정 예측지도’를 발표했다."
+  },
+  {
+   "s": "2026년 한반도 단풍절정 예측지도",
+   "s_type": "Project",
+   "rel": "UNDER_POLICY",
+   "o": "단풍 절정 시기 예측",
+   "o_type": "Policy",
+   "doc": "d0015",
+   "quote": "산림청은 22일 이 같은 내용의 전국 주요 산림과 수목원의 단풍 절정 시기를 담은 ‘2026년 한반도 단풍절정 예측지도’를 발표했다."
+  },
+  {
+   "s": "설악산",
+   "s_type": "Region",
+   "rel": "LOCATED_IN",
+   "o": "강원 북부 산지",
+   "o_type": "Region",
+   "doc": "d0015",
+   "quote": "올해 단풍은 다음달 초 강원 북부 산지에서 시작해 하순부터 전국적으로 절정에 이를 전망이다. 설악산은 10월 20일, 한라산은 11월 6일께 단풍이 최고조로 물들 것으로 예측됐다."
+  },
+  {
+   "s": "속리산",
+   "s_type": "Region",
+   "rel": "LOCATED_IN",
+   "o": "충청북도",
+   "o_type": "Region",
+   "doc": "d0015",
+   "quote": "산지별 단풍 절정 시기는 설악산 10월 20일, 속리산 10월 28일, 내장산 11월 4일, 한라산 11월 6일로 나타났다."
+  },
+  {
+   "s": "내장산",
+   "s_type": "Region",
+   "rel": "LOCATED_IN",
+   "o": "전라북도",
+   "o_type": "Region",
+   "doc": "d0015",
+   "quote": "산지별 단풍 절정 시기는 설악산 10월 20일, 속리산 10월 28일, 내장산 11월 4일, 한라산 11월 6일로 나타났다."
+  },
+  {
+   "s": "한라산",
+   "s_type": "Region",
+   "rel": "LOCATED_IN",
+   "o": "제주도",
+   "o_type": "Region",
+   "doc": "d0015",
+   "quote": "산지별 단풍 절정 시기는 설악산 10월 20일, 속리산 10월 28일, 내장산 11월 4일, 한라산 11월 6일로 나타났다."
+  },
+  {
+   "s": "박영환",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "산림청",
+   "o_type": "Agency",
+   "doc": "d0015",
+   "quote": "박영환 산림청 산림환경보호과장은 “장기간 축적한 식물 계절 관측 자료를 기반으로 정확한 예측 정보를 제공하고, 기후변화에 따른 우리 산림의 계절변화를 지속적으로 기록하겠다”고 말했다."
+  },
+  {
+   "s": "탁소텔",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "보령",
+   "o_type": "Agency",
+   "doc": "d0016",
+   "quote": "보령은 중국 제약 기업 이판제약과 중국 시장에 탁소텔을 공급하는 계약을 체결했다고 22일 밝혔다."
+  },
+  {
+   "s": "탁소텔",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "중국",
+   "o_type": "Region",
+   "doc": "d0016",
+   "quote": "보령은 중국 제약 기업 이판제약과 중국 시장에 탁소텔을 공급하는 계약을 체결했다고 22일 밝혔다."
+  },
+  {
+   "s": "탁소텔",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "이판제약",
+   "o_type": "Agency",
+   "doc": "d0016",
+   "quote": "보령은 중국 제약 기업 이판제약과 중국 시장에 탁소텔을 공급하는 계약을 체결했다고 22일 밝혔다."
+  },
+  {
+   "s": "김성진",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "보령",
+   "o_type": "Agency",
+   "doc": "d0016",
+   "quote": "보령 최고전략책임자(CSO)인 김성진 전무는 김 전무는 \"오리지널 브랜드 인수부터 품질 관리와 생산 내재화, 글로벌 공급까지 이어지는 사업모델을 고도화해 고난도 필수의약품의 전 생애주기를 책임지는 '에센셜 파마 컴퍼니'로 성장하겠다\"고 말했다."
+  },
+  {
+   "s": "상동역 롯데캐슬 시그니처",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "부천 원미구 상동",
+   "o_type": "Region",
+   "doc": "d0017",
+   "quote": "상동역 롯데캐슬 시그니처는 부천 원미구 상동에 들어서는 대규모 주거복합단지다."
+  },
+  {
+   "s": "상동역 롯데캐슬 시그니처",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "롯데건설",
+   "o_type": "Agency",
+   "doc": "d0017",
+   "quote": "롯데건설이 경기 부천에 선보이는 ‘상동역 롯데캐슬 시그니처’가 ‘집코노미 박람회 2026’에 참가해 수도권 주택 수요자들을 만난다."
+  },
+  {
+   "s": "상동역 롯데캐슬 시그니처",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "상동역",
+   "o_type": "Project",
+   "doc": "d0017",
+   "quote": "지하철 7호선 상동역과 가까운 역세권 단지다."
+  },
+  {
+   "s": "집코노미 박람회 2026",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "서울 강남구 삼성동 코엑스",
+   "o_type": "Region",
+   "doc": "d0017",
+   "quote": "집코노미 박람회는 오는 30일부터 다음달 1일까지 서울 강남구 삼성동 코엑스 3층 D홀에서 열린다."
+  },
+  {
+   "s": "집코노미 박람회 2026",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "집코노미 박람회 주최사",
+   "o_type": "Agency",
+   "doc": "d0017",
+   "quote": "집코노미 박람회는 80여 개 업체가 200개 이상의 부스를 꾸린다."
+  },
+  {
+   "s": "장우철",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "국토교통부",
+   "o_type": "Agency",
+   "doc": "d0017",
+   "quote": "장우철 국토교통부 주택정책관"
+  },
+  {
+   "s": "허윤경",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "한국건설산업연구원",
+   "o_type": "Agency",
+   "doc": "d0017",
+   "quote": "허윤경 한국건설산업연구원 연구위원"
+  },
+  {
+   "s": "이창무",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "한양대",
+   "o_type": "Agency",
+   "doc": "d0017",
+   "quote": "이창무 한양대 교수가 정책 세미나에 참여한다."
+  },
+  {
+   "s": "부산 북항 친수공원",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "부산 북항",
+   "o_type": "Region",
+   "doc": "d0019",
+   "quote": "지난 18일 부산 북항 친수공원에서 상어가 목격된 이후..."
+  },
+  {
+   "s": "BGF리테일",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "부산 북항 친수공원",
+   "o_type": "Project",
+   "doc": "d0019",
+   "quote": "22일 편의점 CU를 운영하는 BGF리테일에 따르면, 지난 18일 부산 북항 친수공원에서 상어가 목격된 이후..."
+  },
+  {
+   "s": "부산시",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "부산 북항 친수공원",
+   "o_type": "Project",
+   "doc": "d0019",
+   "quote": "부산시에 따르면 지난 주말 친수공원에는 평소의 4~5배에 달하는 방문객이 운집한 것으로 집계됐다."
+  },
+  {
+   "s": "서울 아파트값 상승기",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "서울특별시",
+   "o_type": "Region",
+   "doc": "d0020",
+   "quote": "22일 한국부동산원에 따르면 지난 14일 기준 서울 아파트 매매가격은 전주보다 0.16% 올랐다. 지난해 2월 첫째 주 상승 전환한 뒤 84주 연속 오름세를 이어갔다."
+  },
+  {
+   "s": "서울 아파트값 상승기",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "한국부동산원",
+   "o_type": "Agency",
+   "doc": "d0020",
+   "quote": "22일 한국부동산원에 따르면 지난 14일 기준 서울 아파트 매매가격은 전주보다 0.16% 올랐다."
+  },
+  {
+   "s": "문재인 정부",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "대한민국 정부",
+   "o_type": "Agency",
+   "doc": "d0020",
+   "quote": "역대 최장 기록은 문재인 정부 당시 세워졌다."
+  },
+  {
+   "s": "서울 아파트값 상승기",
+   "s_type": "Project",
+   "rel": "UNDER_POLICY",
+   "o": "대출 규제",
+   "o_type": "Policy",
+   "doc": "d0020",
+   "quote": "시장에서는 대출 규제와 고가주택의 세 부담 우려가 수요 이동을 촉발한 것으로 보고 있다."
+  },
+  {
+   "s": "서울 아파트값 상승기",
+   "s_type": "Project",
+   "rel": "UNDER_POLICY",
+   "o": "세제개편안",
+   "o_type": "Policy",
+   "doc": "d0020",
+   "quote": "남 연구원은 \"세제개편안으로 부터 상대적으로 자유롭고, 생애최초로 주택을 구입하는 2030세대 무주택자들의 대기수요도 두터운 편이라 서울 중하위 지역 및 경기도 중심의 가격 강세 현상은 당분간 지속될 것으로 전망한다\"고 내다봤다."
+  },
+  {
+   "s": "남혁우",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "우리은행",
+   "o_type": "Agency",
+   "doc": "d0020",
+   "quote": "남혁우 우리은행 부동산 연구원은 \"대출이 녹록치 않은 상황에서 거래가 둔화됐지만 매물과 전월세 물건이 부족한 편으로 매도호가 하락이 매우 제한적인 상황\"이라고 말했다."
+  },
+  {
+   "s": "블룸타이드",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "홍대점",
+   "o_type": "Region",
+   "doc": "d0021",
+   "quote": "블룸타이드가 무신사 뷰티 홍대점에 입점하며 온라인 중심이던 판매 채널을 오프라인으로 넓혔다."
+  },
+  {
+   "s": "블룸타이드",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "무신사 뷰티 홍대점",
+   "o_type": "Agency",
+   "doc": "d0021",
+   "quote": "블룸타이드가 무신사 뷰티 홍대점에 입점하며 온라인 중심이던 판매 채널을 오프라인으로 넓혔다."
+  },
+  {
+   "s": "고영욱",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "룰라",
+   "o_type": "Project",
+   "doc": "d0022",
+   "quote": "그룹 룰라 출신 고영욱(50)이 가수 심수봉(71)의 후배 가수 김다현 공개 비판을 둘러싼 논란에 자신의 과거를 끌어왔다."
+  },
+  {
+   "s": "심수봉",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "진안고원 트로트페스티벌",
+   "o_type": "Project",
+   "doc": "d0022",
+   "quote": "앞서 심수봉은 지난 20일 전북 진안군에서 열린 ‘제10회 진안고원 트로트페스티벌’에서 앞서 무대에 오른 김다현을 공개적으로 언급했다."
+  },
+  {
+   "s": "개포주공7단지",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "개포동",
+   "o_type": "Region",
+   "doc": "d0023",
+   "quote": "22일 국토교통부 실거래가 공개시스템에 따르면 서울 강남구 개포동 '개포주공7단지' 전용면적 83㎡는 지난 4일 1층이 32억5000만원에 거래됐습니다."
+  },
+  {
+   "s": "아크로리버파크",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "반포동",
+   "o_type": "Region",
+   "doc": "d0023",
+   "quote": "서초구 반포동 '아크로리버파크' 전용 84㎡는 지난달 6일 13층이 53억9000만원에 손바뀜했습니다."
+  },
+  {
+   "s": "신반포2",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "잠원동",
+   "o_type": "Region",
+   "doc": "d0023",
+   "quote": "서초구 잠원동 '신반포2' 전용 79㎡는 지난 4일 9층이 41억6000만원에 거래됐습니다."
+  },
+  {
+   "s": "우성1·2·3차",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "잠실동",
+   "o_type": "Region",
+   "doc": "d0023",
+   "quote": "송파구 잠실동 '우성1·2·3차' 전용 131㎡는 지난달 14일 3층이 34억원에 매매됐습니다."
+  },
+  {
+   "s": "국토교통부",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "개포주공7단지",
+   "o_type": "Project",
+   "doc": "d0023",
+   "quote": "22일 국토교통부 실거래가 공개시스템에 따르면 서울 강남구 개포동 '개포주공7단지' 전용면적 83㎡는 지난 4일 1층이 32억5000만원에 거래됐습니다."
+  },
+  {
+   "s": "국토교통부",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "아크로리버파크",
+   "o_type": "Project",
+   "doc": "d0023",
+   "quote": "서초구 반포동 '아크로리버파크' 전용 84㎡는 지난달 6일 13층이 53억9000만원에 손바뀜했습니다."
+  },
+  {
+   "s": "국토교통부",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "신반포2",
+   "o_type": "Project",
+   "doc": "d0023",
+   "quote": "서초구 잠원동 '신반포2' 전용 79㎡는 지난 4일 9층이 41억6000만원에 거래됐습니다."
+  },
+  {
+   "s": "국토교통부",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "우성1·2·3차",
+   "o_type": "Project",
+   "doc": "d0023",
+   "quote": "송파구 잠실동 '우성1·2·3차' 전용 131㎡는 지난달 14일 3층이 34억원에 매매됐습니다."
+  },
+  {
+   "s": "남혁우",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "우리은행 부동산연구원",
+   "o_type": "Agency",
+   "doc": "d0023",
+   "quote": "남혁우 우리은행 부동산연구원은 \"전반적으로 봤을 때는 내년 상반기까지는 그래도 간헐적으로 매물이 나오긴 할 것 같다\"며 \"특히 재건축 단지의 경우에는 일정 수준 급매물이 불가피하게 나올 수밖에 없는 게 실거주를 통해 리스크를 줄여야 하는데 실거주하기도 너무 힘들기 때문\"이라고 진단했다."
+  },
+  {
+   "s": "이형일",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "재정경제부",
+   "o_type": "Agency",
+   "doc": "d0024",
+   "quote": "이형일 경제부총리, 취임 첫 일정은 대미 투자 국회 보고…밤엔 뉴욕행"
+  },
+  {
+   "s": "이형일",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "한미전략투자공사",
+   "o_type": "Agency",
+   "doc": "d0024",
+   "quote": "이 부총리는 한미전략투자공사 운영위원장으로서 이날 국회에 1호 대미 전략투자 사업 후보의 검토 결과와 한미 협의 상황을 보고할 것으로 보인다."
+  },
+  {
+   "s": "한미전략투자공사",
+   "s_type": "Agency",
+   "rel": "ANNOUNCED",
+   "o": "대미 전략투자 사업",
+   "o_type": "Policy",
+   "doc": "d0024",
+   "quote": "한미전략투자공사 운영위원회는 사업 선정 또는 추진 의사를 심의·의결한다."
+  },
+  {
+   "s": "대미 전략투자 사업",
+   "s_type": "Policy",
+   "rel": "LOCATED_IN",
+   "o": "미국 텍사스주 엔시날",
+   "o_type": "Region",
+   "doc": "d0024",
+   "quote": "1호 사업 후보로는 미국 텍사스주 엔시날 가스복합발전 사업 등이 거론된다."
+  },
+  {
+   "s": "이형일",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "재정경제부",
+   "o_type": "Agency",
+   "doc": "d0024",
+   "quote": "이형일 신임 경제부총리 겸 재정경제부 장관이 22일 별도의 취임식 없이 공식 업무를 시작한다."
+  },
+  {
+   "s": "포스코홀딩스 미래기술연구원",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "고온수전해 실증",
+   "o_type": "Project",
+   "doc": "d0025",
+   "quote": "포스코홀딩스 미래기술연구원과 포항산업과학연구원(RIST) 수소저탄소연구소가 아시아 최초로 제철소 내 고온수전해(SOEC) 실증에 착수했다고 22일 밝혔다."
+  },
+  {
+   "s": "포항산업과학연구원",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "고온수전해 실증",
+   "o_type": "Project",
+   "doc": "d0025",
+   "quote": "포스코홀딩스 미래기술연구원과 포항산업과학연구원(RIST) 수소저탄소연구소가 아시아 최초로 제철소 내 고온수전해(SOEC) 실증에 착수했다고 22일 밝혔다."
+  },
+  {
+   "s": "엔포러스",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "고온수전해 실증",
+   "o_type": "Project",
+   "doc": "d0025",
+   "quote": "엔포러스가 20kW급 스택 모듈을 공급하고 포스코가 실증에 필요한 제철소 내 부지, 공정 스팀과 유틸리티를 제공하는 산·연·스타트업 협력 구도로 추진됐다."
+  },
+  {
+   "s": "고온수전해 실증",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "제철소",
+   "o_type": "Region",
+   "doc": "d0025",
+   "quote": "포스코홀딩스 미래기술연구원과 포항산업과학연구원(RIST) 수소저탄소연구소가 아시아 최초로 제철소 내 고온수전해(SOEC) 실증에 착수했다고 22일 밝혔다."
+  },
+  {
+   "s": "이만수",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "포항산업과학연구원",
+   "o_type": "Agency",
+   "doc": "d0025",
+   "quote": "이만수 RIST 청정수소연구그룹장은 “이번 실증은 제철소 공정 스팀을 활용해 국내 독자 고온수전해 기술의 현장 적용성을 검증하는 중요한 단계”라며 “실증 결과를 바탕으로 운전 신뢰성과 경제성을 높여 향후 철강산업의 저탄소 전환에 기여하겠다”고 밝혔다."
+  },
+  {
+   "s": "안진수",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "엔포러스",
+   "o_type": "Agency",
+   "doc": "d0025",
+   "quote": "안진수 엔포러스 대표는 “포스코홀딩스와 RIST가 오랜 연구로 축적한 셀·스택 기술을 이전받아, 이번 실증에 자체 제작한 스택 모듈을 공급하게 됐다”며 “양산체계 구축을 통해 검증된 스택을 안정적으로 공급함으로써 세계 시장에서 경쟁할 수 있는 청정수소 기술 완성에 기여하겠다”고 말했다."
+  },
+  {
+   "s": "인천계양지구",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "인천 계양구",
+   "o_type": "Region",
+   "doc": "d0026",
+   "quote": "인천계양지구는 인천 계양구 박촌동 일원 335만㎡에 1만8천가구를 공급하는 사업이다."
+  },
+  {
+   "s": "인천계양지구",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "한국토지주택공사",
+   "o_type": "Agency",
+   "doc": "d0026",
+   "quote": "한국토지주택공사(LH)는 인천계양 공공주택지구의 서울 출퇴근 교통망을 확충한다고 22일 밝혔다."
+  },
+  {
+   "s": "7701번 시내버스",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "인천계양지구",
+   "o_type": "Project",
+   "doc": "d0026",
+   "quote": "LH는 입주에 앞서 다음 달 7701번 시내버스를 개통하는 것을 목표로 준비 중이다."
+  },
+  {
+   "s": "7701번 시내버스",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "한국토지주택공사",
+   "o_type": "Agency",
+   "doc": "d0026",
+   "quote": "LH는 입주에 앞서 다음 달 7701번 시내버스를 개통하는 것을 목표로 준비 중이다."
+  },
+  {
+   "s": "7701번 시내버스",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "계양역",
+   "o_type": "Project",
+   "doc": "d0026",
+   "quote": "오는 12월 3기 신도시 중 처음으로 입주가 시작되는 인천계양지구에 계양역을 연결하는 시내버스 노선이 신설된다."
+  },
+  {
+   "s": "광역급행 M버스",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "인천시",
+   "o_type": "Agency",
+   "doc": "d0026",
+   "quote": "강남권을 오가는 광역급행 M버스 신설도 추진한다. 인천시가 지난 5월 대도시권광역교통위원회에 신규 노선을 신청했으며..."
+  },
+  {
+   "s": "광역급행 M버스",
+   "s_type": "Project",
+   "rel": "UNDER_POLICY",
+   "o": "대도시권광역교통위원회 심의",
+   "o_type": "Policy",
+   "doc": "d0026",
+   "quote": "인천시가 지난 5월 대도시권광역교통위원회에 신규 노선을 신청했으며 오는 11월 노선위원회 심의를 거쳐 신설 여부가 결정될 예정이다."
+  },
+  {
+   "s": "한국토지주택공사",
+   "s_type": "Agency",
+   "rel": "ANNOUNCED",
+   "o": "서울 출퇴근 교통망 확충",
+   "o_type": "Policy",
+   "doc": "d0026",
+   "quote": "한국토지주택공사(LH)는 인천계양 공공주택지구의 서울 출퇴근 교통망을 확충한다고 22일 밝혔다."
+  },
+  {
+   "s": "보편형 공공임대",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "국토교통부",
+   "o_type": "Agency",
+   "doc": "d0027",
+   "quote": "국토교통부는 21일 발표한 '주거안정플랜'에 공공임대주택 혁신 방안을 담았다."
+  },
+  {
+   "s": "보편형 공공임대",
+   "s_type": "Project",
+   "rel": "UNDER_POLICY",
+   "o": "주거안정플랜",
+   "o_type": "Policy",
+   "doc": "d0027",
+   "quote": "국토교통부는 21일 발표한 '주거안정플랜'에 공공임대주택 혁신 방안을 담았다."
+  },
+  {
+   "s": "보편형 공공임대",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "부천대장",
+   "o_type": "Region",
+   "doc": "d0027",
+   "quote": "발코니 확장형은 부천대장과 남양주왕숙 등 5개 지구 2000가구에 우선 적용한다."
+  },
+  {
+   "s": "보편형 공공임대",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "남양주왕숙",
+   "o_type": "Region",
+   "doc": "d0027",
+   "quote": "발코니 확장형은 부천대장과 남양주왕숙 등 5개 지구 2000가구에 우선 적용한다."
+  },
+  {
+   "s": "국토교통부",
+   "s_type": "Agency",
+   "rel": "ANNOUNCED",
+   "o": "주거안정플랜",
+   "o_type": "Policy",
+   "doc": "d0027",
+   "quote": "국토교통부는 21일 발표한 '주거안정플랜'에 공공임대주택 혁신 방안을 담았다."
+  },
+  {
+   "s": "토스뱅크",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "한가위 응원 키트",
+   "o_type": "Project",
+   "doc": "d0028",
+   "quote": "토스뱅크가 추석을 맞아 다문화가정 200가구에 총 3000만 원 상당의 ‘한가위 응원 키트’를 전달한다고 22일 밝혔다."
+  },
+  {
+   "s": "한가위 응원 키트",
+   "s_type": "Project",
+   "rel": "UNDER_POLICY",
+   "o": "사회공헌 활동",
+   "o_type": "Policy",
+   "doc": "d0028",
+   "quote": "토스뱅크는 지역사회의 취약계층을 위한 사회공헌 활동을 이어갈 방침이다."
+  },
+  {
+   "s": "토스뱅크",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "사회공헌 활동",
+   "o_type": "Policy",
+   "doc": "d0028",
+   "quote": "토스뱅크는 지역사회의 취약계층을 위한 사회공헌 활동을 이어갈 방침이다."
+  },
+  {
+   "s": "카카오엔터테인먼트",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "카카오페이지",
+   "o_type": "Project",
+   "doc": "d0029",
+   "quote": "카카오엔터테인먼트가 웹툰·웹소설 플랫폼을 연내 카카오페이지로 일원화한다."
+  },
+  {
+   "s": "카카오페이지",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "한국",
+   "o_type": "Region",
+   "doc": "d0029",
+   "quote": "카카오엔터테인먼트가 웹툰·웹소설 플랫폼을 연내 카카오페이지로 일원화한다."
+  },
+  {
+   "s": "카카오웹툰",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "한국",
+   "o_type": "Region",
+   "doc": "d0029",
+   "quote": "카카오웹툰은 다음에서 2003년부터 시작된 서비스다."
+  },
+  {
+   "s": "타파스",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "미국",
+   "o_type": "Region",
+   "doc": "d0029",
+   "quote": "미국 웹툰 플랫폼인 타파스 서비스가 조만간 종료될 예정이다."
+  },
+  {
+   "s": "카카오",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "카카오웹툰",
+   "o_type": "Project",
+   "doc": "d0029",
+   "quote": "카카오가 2014년 다음을 합병하면서 카카오 산하에 웹툰·웹소설 플랫폼이 두 개가 공존하게 됐다."
+  },
+  {
+   "s": "카카오",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "타파스",
+   "o_type": "Project",
+   "doc": "d0029",
+   "quote": "미국 웹툰 플랫폼인 타파스 서비스가 조만간 종료될 예정이다."
+  },
+  {
+   "s": "카카오",
+   "s_type": "Agency",
+   "rel": "ROLE_IN",
+   "o": "카카오AI",
+   "o_type": "Agency",
+   "doc": "d0029",
+   "quote": "카카오가 회사를 ‘카카오AI’와 ‘카카오X’로 인적분할 하는 과정에서 이뤄지는 통합이라는 점에서 주목 받고 있다."
+  },
+  {
+   "s": "카카오",
+   "s_type": "Agency",
+   "rel": "ROLE_IN",
+   "o": "카카오X",
+   "o_type": "Agency",
+   "doc": "d0029",
+   "quote": "카카오가 회사를 ‘카카오AI’와 ‘카카오X’로 인적분할 하는 과정에서 이뤄지는 통합이라는 점에서 주목 받고 있다."
+  },
+  {
+   "s": "카카오X",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "카카오엔터테인먼트",
+   "o_type": "Agency",
+   "doc": "d0029",
+   "quote": "카카오X로 편입되는 카카오엔터는 우선 사업 효율화를 추진함으로써 카카오X의 미래 먹거리로써 자리매김한다는 계획이다."
+  },
+  {
+   "s": "삼양씨앤씨",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "웹툰·웹소설 제작",
+   "o_type": "Project",
+   "doc": "d0029",
+   "quote": "지난달 14일 자회사 삼양씨앤씨, 인타임, 필연매니지먼트 등 자회사 합병을 발표하기도 했다."
+  },
+  {
+   "s": "인타임",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "웹툰·웹소설 제작",
+   "o_type": "Project",
+   "doc": "d0029",
+   "quote": "지난달 14일 자회사 삼양씨앤씨, 인타임, 필연매니지먼트 등 자회사 합병을 발표하기도 했다."
+  },
+  {
+   "s": "필연매니지먼트",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "웹툰·웹소설 제작",
+   "o_type": "Project",
+   "doc": "d0029",
+   "quote": "지난달 14일 자회사 삼양씨앤씨, 인타임, 필연매니지먼트 등 자회사 합병을 발표하기도 했다."
+  },
+  {
+   "s": "인천국제공항",
+   "s_type": "Region",
+   "rel": "LOCATED_IN",
+   "o": "제1여객터미널",
+   "o_type": "Project",
+   "doc": "d0030",
+   "quote": "캄보디아에서 인천공항 제1여객터미널에 도착한 항공기 좌석 밑에서 흰색 분말이 발견됐다."
+  },
+  {
+   "s": "인천공항세관",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "제1여객터미널",
+   "o_type": "Project",
+   "doc": "d0030",
+   "quote": "인천공항세관에 따르면 지난해 5월 16일 오전 7시 38분께 캄보디아에서 인천공항 제1여객터미널에 도착한 항공기 좌석 밑에서 흰색 분말이 발견됐다."
+  },
+  {
+   "s": "인천공항세관",
+   "s_type": "Agency",
+   "rel": "ROLE_IN",
+   "o": "남창훈",
+   "o_type": "Person",
+   "doc": "d0030",
+   "quote": "남창훈 인천공항세관 조사국장은 \"마약사범들은 단속을 피하기 위해 갈수록 은밀하고 지능적인 방법으로 마약류를 반입하고 있다\"며 \"빈틈없는 단속을 통해 마약류가 국내에 반입·유통되는 것을 원천 차단하겠다\"고 말했다."
+  },
+  {
+   "s": "인천공항세관",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "인천공항 입국장 장애인 화장실",
+   "o_type": "Project",
+   "doc": "d0030",
+   "quote": "지난해 12월 16일 오전 인천공항 입국장 장애인 화장실에서 담배 형태로 만들어진 대마초 3갑이 발견되면서 시작됐다."
+  },
+  {
+   "s": "인천국제공항",
+   "s_type": "Region",
+   "rel": "LOCATED_IN",
+   "o": "인천공항 입국장 장애인 화장실",
+   "o_type": "Project",
+   "doc": "d0030",
+   "quote": "지난해 12월 16일 오전 인천공항 입국장 장애인 화장실에서 담배 형태로 만들어진 대마초 3갑이 발견되면서 시작됐다."
+  },
+  {
+   "s": "고양대곡지식융합지구",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "고양 덕양구",
+   "o_type": "Region",
+   "doc": "d0031",
+   "quote": "고양대곡지식융합지구는 고양 덕양구 내곡·대장·화정·토당·주교동 일대 199만㎡ 부지에 약 9400가구를 공급하는 사업이다."
+  },
+  {
+   "s": "의왕오전왕곡지구",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "의왕시 오전동·왕곡동",
+   "o_type": "Region",
+   "doc": "d0031",
+   "quote": "의왕오전왕곡지구는 오전·왕곡동 일대 188만㎡에 1만4000가구 규모로 조성된다."
+  },
+  {
+   "s": "고양대곡지식융합지구",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "국토교통부",
+   "o_type": "Agency",
+   "doc": "d0031",
+   "quote": "국토교통부는 22일 ‘고양대곡지식융합지구’와 ‘의왕오전왕곡지구’를 공공주택지구로 지정한다고 21일 밝혔다."
+  },
+  {
+   "s": "의왕오전왕곡지구",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "국토교통부",
+   "o_type": "Agency",
+   "doc": "d0031",
+   "quote": "국토교통부는 22일 ‘고양대곡지식융합지구’와 ‘의왕오전왕곡지구’를 공공주택지구로 지정한다고 21일 밝혔다."
+  },
+  {
+   "s": "고양대곡지식융합지구",
+   "s_type": "Project",
+   "rel": "UNDER_POLICY",
+   "o": "8·13 공급대책",
+   "o_type": "Policy",
+   "doc": "d0031",
+   "quote": "정부는 ‘8·13 공급대책’을 통해 연내 ‘7만3000가구+α’ 규모의 신규 공공택지를 추가 지정하겠다고 밝혔다."
+  },
+  {
+   "s": "의왕오전왕곡지구",
+   "s_type": "Project",
+   "rel": "UNDER_POLICY",
+   "o": "8·13 공급대책",
+   "o_type": "Policy",
+   "doc": "d0031",
+   "quote": "정부는 ‘8·13 공급대책’을 통해 연내 ‘7만3000가구+α’ 규모의 신규 공공택지를 추가 지정하겠다고 밝혔다."
+  },
+  {
+   "s": "한국보건사회연구원",
+   "s_type": "Agency",
+   "rel": "ANNOUNCED",
+   "o": "노후 준비의 현황과 과제 보고서",
+   "o_type": "Policy",
+   "doc": "d0032",
+   "quote": "22일 한국보건사회연구원의 ‘보건복지포럼’ 9월호에 실린 ‘노후 준비의 현황과 과제’ 보고서에 따르면 전국 30~69세 성인 3040명을 대상으로 실시한 ‘2024년 노후 준비 실태조사’에서 비친밀형은 전체의 30.6%로 집계됐다."
+  },
+  {
+   "s": "금천구 소재 한 초등학교",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "금천구",
+   "o_type": "Region",
+   "doc": "d0033",
+   "quote": "지난 6월 서울 금천구 소재 한 초등학교의 학부모 A씨는 B씨가 교실에서 안전관리에 소홀했다며 업무상 과실치상 혐의로 경찰에 고소했고 최근 B씨는 경찰 조사를 받았다."
+  },
+  {
+   "s": "B씨",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "금천구 소재 한 초등학교",
+   "o_type": "Project",
+   "doc": "d0033",
+   "quote": "2020년 교직에서 정년퇴직한 B씨는 사고 당시 시간강사로 A씨 자녀가 속한 반을 임시로 맡고 있었다."
+  },
+  {
+   "s": "서울시교육청",
+   "s_type": "Agency",
+   "rel": "ANNOUNCED",
+   "o": "아침 열기 활동",
+   "o_type": "Policy",
+   "doc": "d0033",
+   "quote": "콩주머니 활동은 해당 학교에서 전 학년 학생들이 아침 9시 수업 시작 전 7∼8분간 실시하던 교육이라며 서울시교육청 주관 연수에서도 아동의 신체·운동과 관련해 장려한 활동이라고 강조했다."
+  },
+  {
+   "s": "경기남부경찰청",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "안산",
+   "o_type": "Region",
+   "doc": "d0034",
+   "quote": "이번 단속은 지난 1일부터 21일까지 3주간 외국인 인구가 많은 안산·시흥·화성·수원·평택오산 등 5개 권역에서 이뤄졌다."
+  },
+  {
+   "s": "경기남부경찰청",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "시흥",
+   "o_type": "Region",
+   "doc": "d0034",
+   "quote": "이번 단속은 지난 1일부터 21일까지 3주간 외국인 인구가 많은 안산·시흥·화성·수원·평택오산 등 5개 권역에서 이뤄졌다."
+  },
+  {
+   "s": "경기남부경찰청",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "화성",
+   "o_type": "Region",
+   "doc": "d0034",
+   "quote": "이번 단속은 지난 1일부터 21일까지 3주간 외국인 인구가 많은 안산·시흥·화성·수원·평택오산 등 5개 권역에서 이뤄졌다."
+  },
+  {
+   "s": "경기남부경찰청",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "수원",
+   "o_type": "Region",
+   "doc": "d0034",
+   "quote": "이번 단속은 지난 1일부터 21일까지 3주간 외국인 인구가 많은 안산·시흥·화성·수원·평택오산 등 5개 권역에서 이뤄졌다."
+  },
+  {
+   "s": "경기남부경찰청",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "평택오산",
+   "o_type": "Region",
+   "doc": "d0034",
+   "quote": "이번 단속은 지난 1일부터 21일까지 3주간 외국인 인구가 많은 안산·시흥·화성·수원·평택오산 등 5개 권역에서 이뤄졌다."
+  },
+  {
+   "s": "청년월세",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "국토교통부",
+   "o_type": "Agency",
+   "doc": "d0035",
+   "quote": "국토교통부는 21일 발표한 ‘주거안정플랜’에서 청년월세 지원 확대 방안을 내놨다."
+  },
+  {
+   "s": "청년월세",
+   "s_type": "Project",
+   "rel": "UNDER_POLICY",
+   "o": "주거안정플랜",
+   "o_type": "Policy",
+   "doc": "d0035",
+   "quote": "국토교통부는 21일 발표한 ‘주거안정플랜’에서 청년월세 지원 확대 방안을 내놨다."
+  },
+  {
+   "s": "국토교통부",
+   "s_type": "Agency",
+   "rel": "ANNOUNCED",
+   "o": "주거안정플랜",
+   "o_type": "Policy",
+   "doc": "d0035",
+   "quote": "국토교통부는 21일 발표한 ‘주거안정플랜’에서 청년월세 지원 확대 방안을 내놨다."
+  },
+  {
+   "s": "자리",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "뉴욕 맨해튼",
+   "o_type": "Region",
+   "doc": "d0036",
+   "quote": "CJ제일제당은 미국 뉴욕 맨해튼에 위치한 모던 한식 레스토랑 ‘무노(Moono)’에서 ‘jari’ 론칭 행사를 열고 프리미엄 K-증류주 3종을 선보인다고 22일 밝혔다."
+  },
+  {
+   "s": "자리",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "CJ제일제당",
+   "o_type": "Agency",
+   "doc": "d0036",
+   "quote": "CJ제일제당이 프리미엄 증류주 브랜드 ‘자리(jari)’를 미국 시장에 정식으로 선보이며 K-주류의 글로벌 영토 확장에 나선다."
+  },
+  {
+   "s": "CJ제일제당",
+   "s_type": "Agency",
+   "rel": "ANNOUNCED",
+   "o": "jari",
+   "o_type": "Project",
+   "doc": "d0036",
+   "quote": "CJ제일제당은 ‘jari’를 한국 전통 술의 문화적 가치와 정체성을 세계에 알리며 ‘K-증류주 플랫폼’으로 육성한다는 계획이다."
+  },
+  {
+   "s": "그레고리 옙",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "CJ제일제당 라이프스타일 식품사업부문",
+   "o_type": "Agency",
+   "doc": "d0036",
+   "quote": "행사에는 그레고리 옙 CJ제일제당 라이프스타일 식품사업부문 대표와 현지 식음료(F&B) 업계 관계자들이 참석한다."
+  },
+  {
+   "s": "부산 북항 친수공원",
+   "s_type": "Region",
+   "rel": "LOCATED_IN",
+   "o": "부산 동구 CU 점포",
+   "o_type": "Project",
+   "doc": "d0037",
+   "quote": "부산 북항 친수공원에서 상어가 처음 목격된 지난 18일 이후 19~21일 부산 동구 CU 점포의 죠스바 매출은 직전 주 같은 요일보다 28.4% 증가했다."
+  },
+  {
+   "s": "BGF리테일",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "부산 동구 CU 점포",
+   "o_type": "Project",
+   "doc": "d0037",
+   "quote": "22일 편의점 CU를 운영하는 BGF리테일에 따르면 부산 북항 친수공원에서 상어가 처음 목격된 지난 18일 이후 19~21일 부산 동구 CU 점포의 죠스바 매출은 직전 주 같은 요일보다 28.4% 증가했다."
+  },
+  {
+   "s": "대전 오월드",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "대전",
+   "o_type": "Region",
+   "doc": "d0037",
+   "quote": "지난 4월 대전 오월드를 탈출해 전국적인 화제가 된 늑대 ‘늑구’가 대표적이다."
+  },
+  {
+   "s": "늑구",
+   "s_type": "Person",
+   "rel": "LOCATED_IN",
+   "o": "대전 오월드",
+   "o_type": "Project",
+   "doc": "d0037",
+   "quote": "지난 4월 대전 오월드를 탈출해 전국적인 화제가 된 늑대 ‘늑구’가 대표적이다."
+  },
+  {
+   "s": "에버랜드",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "푸바오 팝업스토어",
+   "o_type": "Project",
+   "doc": "d0037",
+   "quote": "에버랜드는 푸바오를 활용한 인형·키링·의류 등 400여종의 상품을 선보였고 누적 판매량은 약 330만개에 달했다."
+  },
+  {
+   "s": "푸바오 팝업스토어",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "서울 여의도 더현대서울",
+   "o_type": "Region",
+   "doc": "d0037",
+   "quote": "2023년 서울 여의도 더현대서울에서 약 2주 동안 운영된 푸바오 팝업스토어에는 2만여명이 찾았다."
+  },
+  {
+   "s": "서울 여의도 더현대서울",
+   "s_type": "Region",
+   "rel": "LOCATED_IN",
+   "o": "서울특별시",
+   "o_type": "Region",
+   "doc": "d0037",
+   "quote": "2023년 서울 여의도 더현대서울에서 약 2주 동안 운영된 푸바오 팝업스토어에는 2만여명이 찾았다."
+  },
+  {
+   "s": "태국 피그미하마 무뎅",
+   "s_type": "Person",
+   "rel": "LOCATED_IN",
+   "o": "태국",
+   "o_type": "Region",
+   "doc": "d0037",
+   "quote": "2024년 세계적인 화제가 된 태국 피그미하마 ‘무뎅’은 출생 이후 동물원 방문객을 이전보다 약 두 배 끌어올렸다."
+  },
+  {
+   "s": "하림펫푸드",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "더리얼 레시피 추석 한상 세트 특가전",
+   "o_type": "Project",
+   "doc": "d0038",
+   "quote": "22일 업계에 따르면 하림펫푸드는 추석을 맞아 공식 온라인몰을 통해 '더리얼 레시피 추석 한상 세트 특가전'을 진행한다."
+  },
+  {
+   "s": "굽네",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "듀먼 듀듀데이 프로모션",
+   "o_type": "Project",
+   "doc": "d0038",
+   "quote": "굽네의 반려견 자연화식 브랜드 듀먼은 오는 23일까지 자사몰에서 추석맞이 '듀듀데이' 프로모션을 연다."
+  },
+  {
+   "s": "hy",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "큐토펫 추석 할인 행사",
+   "o_type": "Project",
+   "doc": "d0038",
+   "quote": "hy도 반려동물 브랜드 큐토펫의 네이버 공식 스토어에서 이날까지 추석 할인 행사를 진행한다."
+  },
+  {
+   "s": "포포몽",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "러브 링커 캠페인",
+   "o_type": "Project",
+   "doc": "d0038",
+   "quote": "깨끗한나라[004540]의 반려동물 브랜드 포포몽은 한국헌혈견협회와 함께 반려견 헌혈 인식 개선 캠페인 '러브 링커'를 이어간다."
+  },
+  {
+   "s": "한국헌혈견협회",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "러브 링커 캠페인",
+   "o_type": "Project",
+   "doc": "d0038",
+   "quote": "깨끗한나라[004540]의 반려동물 브랜드 포포몽은 한국헌혈견협회와 함께 반려견 헌혈 인식 개선 캠페인 '러브 링커'를 이어간다."
+  },
+  {
+   "s": "포포몽",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "아논이가 나누는 한가위의 기적 콘텐츠",
+   "o_type": "Project",
+   "doc": "d0038",
+   "quote": "포포몽은 아논이의 헌혈 과정과 보호자 최민경 씨의 이야기를 담은 '아논이가 나누는 한가위의 기적' 콘텐츠를 제작해 공식 사회관계망서비스(SNS) 등을 통해 소개할 예정이다."
+  },
+  {
+   "s": "최민경",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "포포몽",
+   "o_type": "Agency",
+   "doc": "d0038",
+   "quote": "포포몽은 아논이의 헌혈 과정과 보호자 최민경 씨의 이야기를 담은 '아논이가 나누는 한가위의 기적' 콘텐츠를 제작해 공식 사회관계망서비스(SNS) 등을 통해 소개할 예정이다."
+  },
+  {
+   "s": "주거안정플랜",
+   "s_type": "Policy",
+   "rel": "ANNOUNCED",
+   "o": "국토교통부",
+   "o_type": "Agency",
+   "doc": "d0039",
+   "quote": "국토교통부는 2030년까지 공적주택을 연평균 24만 가구, 총 119만 가구 공급하는 ‘주거안정플랜’을 21일 발표했다."
+  },
+  {
+   "s": "주거안정플랜",
+   "s_type": "Policy",
+   "rel": "UNDER_POLICY",
+   "o": "3기 신도시",
+   "o_type": "Project",
+   "doc": "d0039",
+   "quote": "정부가 수도권 3기 신도시를 중심으로 중산층을 위한 고품질 임대주택을 도입한다."
+  },
+  {
+   "s": "3기 신도시",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "수도권",
+   "o_type": "Region",
+   "doc": "d0039",
+   "quote": "이 가운데 77%인 92만 가구가 주택 수요가 많은 수도권에 집중된다."
+  },
+  {
+   "s": "고양창릉 B-1블록",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "경기 고양시",
+   "o_type": "Region",
+   "doc": "d0039",
+   "quote": "연말 경기 고양창릉 B-1블록(1595가구) 착공을 시작으로 내년에는 남양주 진접(693가구) 등의 사업이 예정돼 있다."
+  },
+  {
+   "s": "남양주 진접",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "경기도 남양주시",
+   "o_type": "Region",
+   "doc": "d0039",
+   "quote": "연말 경기 고양창릉 B-1블록(1595가구) 착공을 시작으로 내년에는 남양주 진접(693가구) 등의 사업이 예정돼 있다."
+  },
+  {
+   "s": "고양시 대곡역 일대 공공주택지구",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "경기 고양시",
+   "o_type": "Region",
+   "doc": "d0039",
+   "quote": "국토부는 2024년 11월 공공택지 후보지로 선정된 경기 고양시 대곡역 일대와 의왕시 오전동·왕곡동 일원을 공공주택지구(2만3000가구)로 지정한다고 밝혔다."
+  },
+  {
+   "s": "의왕시 오전동·왕곡동 공공주택지구",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "의왕시",
+   "o_type": "Region",
+   "doc": "d0039",
+   "quote": "국토부는 2024년 11월 공공택지 후보지로 선정된 경기 고양시 대곡역 일대와 의왕시 오전동·왕곡동 일원을 공공주택지구(2만3000가구)로 지정한다고 밝혔다."
+  },
+  {
+   "s": "주거안정플랜",
+   "s_type": "Policy",
+   "rel": "BY_AGENCY",
+   "o": "국토교통부",
+   "o_type": "Agency",
+   "doc": "d0039",
+   "quote": "국토교통부는 2030년까지 공적주택을 연평균 24만 가구, 총 119만 가구 공급하는 ‘주거안정플랜’을 21일 발표했다."
+  },
+  {
+   "s": "이유정",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "한국경제",
+   "o_type": "Agency",
+   "doc": "d0039",
+   "quote": "이유정/유오상/정의진 기자 yjlee@hankyung.com"
+  },
+  {
+   "s": "김동아",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "더불어민주당",
+   "o_type": "Agency",
+   "doc": "d0041",
+   "quote": "김동아 더불어민주당 의원은 지난 21일 밤 YTN 라디오 ‘이동형의 뉴스 정면승부’에서 김현지 실장에 대해 “이재명 대통령과 오랫동안 함께 정치를 해온 입장에서 당연히 조언하거나 고언을 드릴 수는 있다”면서도 “핵심적인 인사를 전체적으로 좌우했다는 식으로 과장하는 것은 말도 안 되는 얘기”라고 말했다."
+  },
+  {
+   "s": "김현지",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "대통령실",
+   "o_type": "Agency",
+   "doc": "d0041",
+   "quote": "강훈식 대통령 비서실장이 사의를 표명한 가운데 야권을 중심으로 대통령실 인사 과정에 김현지 부속실장이 영향력을 행사했다는 주장이 제기되자 여권에서 이를 정면 반박했다."
+  },
+  {
+   "s": "김현지",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "대통령",
+   "o_type": "Person",
+   "doc": "d0041",
+   "quote": "김 의원은 김 실장의 역할에 대해 이 대통령과 오랜 기간 정치적 관계를 이어온 인물이라는 점을 강조했다."
+  },
+  {
+   "s": "사회보장급여법 시행령 일부개정령안",
+   "s_type": "Policy",
+   "rel": "ANNOUNCED",
+   "o": "보건복지부",
+   "o_type": "Agency",
+   "doc": "d0042",
+   "quote": "보건복지부는 22일 국무회의에서 이런 내용을 담은 사회보장급여의 이용·제공 및 수급권자 발굴에 관한 법률(사회보장급여법) 시행령 일부개정령안이 의결됐다고 밝혔다."
+  },
+  {
+   "s": "사회보장급여법 시행령 일부개정령안",
+   "s_type": "Policy",
+   "rel": "BY_AGENCY",
+   "o": "보건복지부",
+   "o_type": "Agency",
+   "doc": "d0042",
+   "quote": "보건복지부는 22일 국무회의에서 이런 내용을 담은 사회보장급여의 이용·제공 및 수급권자 발굴에 관한 법률(사회보장급여법) 시행령 일부개정령안이 의결됐다고 밝혔다."
+  },
+  {
+   "s": "복지사각지대 발굴시스템",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "보건복지부",
+   "o_type": "Agency",
+   "doc": "d0042",
+   "quote": "이 발굴시스템은 단전, 단수 등 위기 정보를 활용해 경제적 위기가구를 예측하는 빅데이터 기반의 시스템으로, 2015년 12월부터 운영 중이다."
+  },
+  {
+   "s": "복지사각지대 발굴시스템",
+   "s_type": "Project",
+   "rel": "UNDER_POLICY",
+   "o": "사회보장급여법 시행령 일부개정령안",
+   "o_type": "Policy",
+   "doc": "d0042",
+   "quote": "개정 시행령의 골자는 불법 사금융 피해자, 취약 채무자, 채무 조정 효력 상실자 등의 위기 정보를 '복지사각지대 발굴시스템'에 연계하는 것이다."
+  },
+  {
+   "s": "복지사각지대 발굴시스템",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "대한민국",
+   "o_type": "Region",
+   "doc": "d0042",
+   "quote": "이 발굴시스템은 단전, 단수 등 위기 정보를 활용해 경제적 위기가구를 예측하는 빅데이터 기반의 시스템으로, 2015년 12월부터 운영 중이다."
+  },
+  {
+   "s": "금융감독원 불법사금융피해신고센터",
+   "s_type": "Agency",
+   "rel": "ROLE_IN",
+   "o": "금융감독원",
+   "o_type": "Agency",
+   "doc": "d0042",
+   "quote": "정부는 금융감독원 불법사금융피해신고센터로 신고한 사람의 정보를 위기 정보의 하나로 수집해 위기가구를 미리 발굴하고 복지서비스를 제공할 계획이다."
+  },
+  {
+   "s": "주거안정플랜",
+   "s_type": "Policy",
+   "rel": "ANNOUNCED",
+   "o": "국토교통부",
+   "o_type": "Agency",
+   "doc": "d0043",
+   "quote": "국토교통부는 2030년까지 공적주택을 연평균 24만 가구, 총 119만 가구 공급하는 ‘주거안정플랜’을 21일 발표했다."
+  },
+  {
+   "s": "주거안정플랜",
+   "s_type": "Policy",
+   "rel": "LOCATED_IN",
+   "o": "수도권",
+   "o_type": "Region",
+   "doc": "d0043",
+   "quote": "이 가운데 77%인 92만 가구가 주택 수요가 많은 수도권에 집중된다."
+  },
+  {
+   "s": "3기 신도시",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "수도권",
+   "o_type": "Region",
+   "doc": "d0043",
+   "quote": "정부가 수도권 3기 신도시를 중심으로 중산층을 위한 고품질 임대주택을 도입한다."
+  },
+  {
+   "s": "3기 신도시",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "국토교통부",
+   "o_type": "Agency",
+   "doc": "d0043",
+   "quote": "국토교통부는 2030년까지 공적주택을 연평균 24만 가구, 총 119만 가구 공급하는 ‘주거안정플랜’을 21일 발표했다."
+  },
+  {
+   "s": "경기 고양창릉 B-1블록",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "경기 고양시",
+   "o_type": "Region",
+   "doc": "d0043",
+   "quote": "연말 경기 고양창릉 B-1블록(1595가구) 착공을 시작으로 내년에는 남양주 진접(693가구) 등의 사업이 예정돼 있다."
+  },
+  {
+   "s": "경기 고양창릉 B-1블록",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "국토교통부",
+   "o_type": "Agency",
+   "doc": "d0043",
+   "quote": "국토부는 2024년 11월 공공택지 후보지로 선정된 경기 고양시 대곡역 일대와 의왕시 오전동·왕곡동 일원을 공공주택지구(2만3000가구)로 지정한다고 밝혔다."
+  },
+  {
+   "s": "남양주 진접",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "남양주시",
+   "o_type": "Region",
+   "doc": "d0043",
+   "quote": "내년에는 남양주 진접(693가구) 등의 사업이 예정돼 있다."
+  },
+  {
+   "s": "남양주 진접",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "국토교통부",
+   "o_type": "Agency",
+   "doc": "d0043",
+   "quote": "국토부는 2024년 11월 공공택지 후보지로 선정된 경기 고양시 대곡역 일대와 의왕시 오전동·왕곡동 일원을 공공주택지구(2만3000가구)로 지정한다고 밝혔다."
+  },
+  {
+   "s": "경기 고양시 대곡역 일대",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "경기 고양시",
+   "o_type": "Region",
+   "doc": "d0043",
+   "quote": "국토부는 2024년 11월 공공택지 후보지로 선정된 경기 고양시 대곡역 일대와 의왕시 오전동·왕곡동 일원을 공공주택지구(2만3000가구)로 지정한다고 밝혔다."
+  },
+  {
+   "s": "경기 고양시 대곡역 일대",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "국토교통부",
+   "o_type": "Agency",
+   "doc": "d0043",
+   "quote": "국토부는 2024년 11월 공공택지 후보지로 선정된 경기 고양시 대곡역 일대와 의왕시 오전동·왕곡동 일원을 공공주택지구(2만3000가구)로 지정한다고 밝혔다."
+  },
+  {
+   "s": "의왕시 오전동·왕곡동 일원",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "의왕시",
+   "o_type": "Region",
+   "doc": "d0043",
+   "quote": "국토부는 2024년 11월 공공택지 후보지로 선정된 경기 고양시 대곡역 일대와 의왕시 오전동·왕곡동 일원을 공공주택지구(2만3000가구)로 지정한다고 밝혔다."
+  },
+  {
+   "s": "의왕시 오전동·왕곡동 일원",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "국토교통부",
+   "o_type": "Agency",
+   "doc": "d0043",
+   "quote": "국토부는 2024년 11월 공공택지 후보지로 선정된 경기 고양시 대곡역 일대와 의왕시 오전동·왕곡동 일원을 공공주택지구(2만3000가구)로 지정한다고 밝혔다."
+  },
+  {
+   "s": "풀무원",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "풀무원 공식 온라인 쇼핑몰",
+   "o_type": "Project",
+   "doc": "d0044",
+   "quote": "풀무원이 공식 온라인 쇼핑몰 ‘#풀무원’에 생성형 엔진 최적화(GEO) 기술을 선제적으로 도입해 인공지능(AI) 기반 쇼핑 환경을 정비했다고 22일 밝혔다."
+  },
+  {
+   "s": "주거안정플랜",
+   "s_type": "Policy",
+   "rel": "UNDER_POLICY",
+   "o": "공공임대",
+   "o_type": "Project",
+   "doc": "d0045",
+   "quote": "저소득·취약계층 중심 공공임대 대상을 청년,신혼부부는 물론 중산층까지 확대한다."
+  },
+  {
+   "s": "공공임대",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "수도권",
+   "o_type": "Region",
+   "doc": "d0045",
+   "quote": "91만7000가구(77%)를 수도권에 배치하고"
+  },
+  {
+   "s": "함영진",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "우리은행",
+   "o_type": "Agency",
+   "doc": "d0045",
+   "quote": "함영진 우리은행 부동산리서치랩장은 “이번 대책은 단순히 공공임대 물량을 늘리는 데서 벗어나 ‘공공임대의 보편화·고품질화·수요자 맞춤형 복지’로 정책의 무게중심을 옮겼다는 데 의의가 있다”고 평가했다."
+  },
+  {
+   "s": "양지영",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "신한 프리미어 패스파인더",
+   "o_type": "Agency",
+   "doc": "d0045",
+   "quote": "양지영 신한 프리미어 패스파인더 전문위원은 “공공택지 아파트의 직접 건설 방식만으로는 입주까지 장기간이 소요된다”고 말했다."
+  },
+  {
+   "s": "한국토지주택공사",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "공공임대",
+   "o_type": "Project",
+   "doc": "d0045",
+   "quote": "한국토지주택공사(LH) 등 공공기관이 매입·임차 주체로 참여해 임차인이 개인 임대인의 상환 능력에 의존하는 위험을 낮출 수 있을 것으로 보인다."
+  },
+  {
+   "s": "남혁우",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "우리은행",
+   "o_type": "Agency",
+   "doc": "d0045",
+   "quote": "남혁우 우리은행 부동산 연구원은 “장기간 거주할 수 있는 ‘보편형 공공임대’가 대중화될 수 있다면 상품성 개선에 따라 공공임대에 대한 사회적 인식 전환뿐만 아니라 좋은 곳에 거주하고 싶은 무주택자의 요구를 일부 충족시켜 줄 수 있을 것으로 기대된다”고 짚었다."
+  },
+  {
+   "s": "김효선",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "KB국민은행",
+   "o_type": "Agency",
+   "doc": "d0045",
+   "quote": "김효선 KB국민은행 부동산 수석전문위원은 “공공임대의 공실과 수요 미스매치를 정책적으로 인식하고, 공급자 중심의 양적 확대에서 수요자 중심의 질적 개선으로 전환하려는 점도 의미가 있어 보인다”고 말했다."
+  },
+  {
+   "s": "중소벤처기업부",
+   "s_type": "Agency",
+   "rel": "ANNOUNCED",
+   "o": "성장형 사회연대경제기업 활성화 방안",
+   "o_type": "Policy",
+   "doc": "d0046",
+   "quote": "중기부는 22일 여의도 글래드호텔에서 열린 '사회연대경제 성장 포럼'에서 이러한 내용이 담긴 '성장형 사회연대경제기업 활성화 방안'을 발표했다."
+  },
+  {
+   "s": "성장형 사회연대경제기업 활성화 방안",
+   "s_type": "Policy",
+   "rel": "UNDER_POLICY",
+   "o": "초기창업패키지",
+   "o_type": "Policy",
+   "doc": "d0046",
+   "quote": "중소벤처기업부가 사회연대경제기업이 성장할 수 있도록 초기창업패키지와 팁스(TIPS) 등 단계별 맞춤형 지원을 추진하고, 임팩트 펀드·보증 등 자금을 공급하기로 했다."
+  },
+  {
+   "s": "성장형 사회연대경제기업 활성화 방안",
+   "s_type": "Policy",
+   "rel": "UNDER_POLICY",
+   "o": "팁스",
+   "o_type": "Policy",
+   "doc": "d0046",
+   "quote": "중소벤처기업부가 사회연대경제기업이 성장할 수 있도록 초기창업패키지와 팁스(TIPS) 등 단계별 맞춤형 지원을 추진하고, 임팩트 펀드·보증 등 자금을 공급하기로 했다."
+  },
+  {
+   "s": "성장형 사회연대경제기업 활성화 방안",
+   "s_type": "Policy",
+   "rel": "UNDER_POLICY",
+   "o": "전용자금 신설",
+   "o_type": "Policy",
+   "doc": "d0046",
+   "quote": "이날 중기부는 이들 기업이 성장할 수 있도록 전용자금을 신설해 사회연대경제기업의 안정적인 자금 확보를 지원한다고 밝혔다."
+  },
+  {
+   "s": "중소벤처기업부",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "성장형 사회연대경제기업 활성화 방안",
+   "o_type": "Policy",
+   "doc": "d0046",
+   "quote": "중기부는 22일 여의도 글래드호텔에서 열린 '사회연대경제 성장 포럼'에서 이러한 내용이 담긴 '성장형 사회연대경제기업 활성화 방안'을 발표했다."
+  },
+  {
+   "s": "노용석",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "중소벤처기업부",
+   "o_type": "Agency",
+   "doc": "d0046",
+   "quote": "노용석 중기부 제1차관은 \"사회연대경제기업은 기업의 성장과 함께 다양한 사회 문제를 해결해온 우리경제의 중요한 주체\"라며 \"이들의 성장을 지원해 사회적 가치도 함께 확산하도록 노력하겠다\"고 밝혔다."
+  },
+  {
+   "s": "표준건축비",
+   "s_type": "Policy",
+   "rel": "UNDER_POLICY",
+   "o": "LH 임대주택 건설형 공모사업",
+   "o_type": "Project",
+   "doc": "d0047",
+   "quote": "반면 LH 임대주택 건설형 공모사업은 여전히 표준건축비를 적용받는다."
+  },
+  {
+   "s": "LH",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "LH 임대주택 건설형 공모사업",
+   "o_type": "Project",
+   "doc": "d0047",
+   "quote": "반면 LH 임대주택 건설형 공모사업은 여전히 표준건축비를 적용받는다."
+  },
+  {
+   "s": "재개발사업 임대주택 인수가격 상향 정책",
+   "s_type": "Policy",
+   "rel": "UNDER_POLICY",
+   "o": "재개발사업 임대주택",
+   "o_type": "Project",
+   "doc": "d0047",
+   "quote": "정부는 재개발사업 임대주택 인수가격을 2024년 시행령 개정으로 기본형건축비의 80% 수준으로 상향했다."
+  },
+  {
+   "s": "재개발사업 임대주택",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "수도권",
+   "o_type": "Region",
+   "doc": "d0047",
+   "quote": "2021~2024년 공급된 대상지는 남양주 진접2, 부천 대장·역곡, 인천 계양, 양주 회천, 시흥 거모·하중, 군포 대야미, 평택 고덕, 의정부 우정 등 수도권 20곳이다."
+  },
+  {
+   "s": "오리온",
+   "s_type": "Agency",
+   "rel": "ANNOUNCED",
+   "o": "하반기 신입채용",
+   "o_type": "Policy",
+   "doc": "d0048",
+   "quote": "오리온이 2026년도 하반기 신입사원 정기 채용 일정에 돌입했다."
+  },
+  {
+   "s": "상상스타트업캠프",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "KT&G",
+   "o_type": "Agency",
+   "doc": "d0049",
+   "quote": "KT&G(사장 방경만)가 청년 창업가를 단순 육성하는 수준을 넘어 이들이 기업과 투자자 등과 소통하고 협력할 수 있도록 지원해 눈길을 끌고 있다."
+  },
+  {
+   "s": "상상스타트업캠프",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "서울특별시",
+   "o_type": "Region",
+   "doc": "d0049",
+   "quote": "22일 KT&G에 따르면 청년 창업가 육성 프로그램 ‘상상스타트업캠프 10기’에 참여중인 10개 팀이 지난 21일부터 이틀간 서울 코엑스에서 열린 ‘제3회 대한민국 사회적가치 페스타’에 참가했다."
+  },
+  {
+   "s": "대한상공회의소",
+   "s_type": "Agency",
+   "rel": "ANNOUNCED",
+   "o": "제3회 대한민국 사회적가치 페스타",
+   "o_type": "Project",
+   "doc": "d0049",
+   "quote": "이 행사는 대한상공회의소가 주최한다."
+  },
+  {
+   "s": "심영아",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "KT&G ESG경영실",
+   "o_type": "Agency",
+   "doc": "d0049",
+   "quote": "심영아 KT&G ESG경영실장은 “이번 페스타 참가가 청년 창업가들이 자신들의 사업을 알리고 새로운 성장 기회를 만들어가는 계기가 됐기를 바란다”고 말했다."
+  },
+  {
+   "s": "목동 9단지 아파트 재건축사업",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "양천구",
+   "o_type": "Region",
+   "doc": "d0050",
+   "quote": "서울 양천구 목동 9단지·13단지 재건축 사업이 속도를 낸다."
+  },
+  {
+   "s": "목동 13단지 아파트 재건축사업",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "양천구",
+   "o_type": "Region",
+   "doc": "d0050",
+   "quote": "서울 양천구 목동 9단지·13단지 재건축 사업이 속도를 낸다."
+  },
+  {
+   "s": "목동 9단지 아파트 재건축사업",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "서울특별시",
+   "o_type": "Agency",
+   "doc": "d0050",
+   "quote": "서울시는 지난 21일 제20차 정비사업 통합심의위원회를 열고 '목동 9단지 아파트 재건축사업'과 '목동 13단지 아파트 재건축사업'을 위한 건축·경관·교육·교통·재해·환경·공원 7개 분야 통합심의안을 각각 조건부 의결했다고 22일 밝혔다."
+  },
+  {
+   "s": "목동 13단지 아파트 재건축사업",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "서울특별시",
+   "o_type": "Agency",
+   "doc": "d0050",
+   "quote": "서울시는 지난 21일 제20차 정비사업 통합심의위원회를 열고 '목동 9단지 아파트 재건축사업'과 '목동 13단지 아파트 재건축사업'을 위한 건축·경관·교육·교통·재해·환경·공원 7개 분야 통합심의안을 각각 조건부 의결했다고 22일 밝혔다."
+  },
+  {
+   "s": "명노준",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "서울특별시",
+   "o_type": "Agency",
+   "doc": "d0050",
+   "quote": "명노준 서울시 주택실장은 \"목동9·13단지 재건축이 양천구 일대 재건축 사업과 어우러져 조화로운 스카이라인이 조성될 것으로 기대한다\"며 \"앞으로도 서남권 노후 공동주택의 주거 환경 개선과 주민이 원하는 주택 공급 활성화에 최선을 다하겠다\"고 밝혔다."
+  },
+  {
+   "s": "CIBC스퀘어",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "토론토",
+   "o_type": "Region",
+   "doc": "d0051",
+   "quote": "국민연금이 공동 투자한 캐나다 토론토 초대형 오피스 ‘CIBC스퀘어’(사진)가 10년 만에 최종 완공됐다."
+  },
+  {
+   "s": "CIBC스퀘어",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "국민연금",
+   "o_type": "Agency",
+   "doc": "d0051",
+   "quote": "국민연금이 공동 투자한 캐나다 토론토 초대형 오피스 ‘CIBC스퀘어’(사진)가 10년 만에 최종 완공됐다."
+  },
+  {
+   "s": "CIBC스퀘어",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "하인즈",
+   "o_type": "Agency",
+   "doc": "d0051",
+   "quote": "하인즈가 위탁운용을 맡아 개발했으며 최근 두 번째 오피스인 ‘141베이스트리트’를 완공하면서 2021년 문을 연 81베이스트리트와 함께 전체 개발사업이 마무리됐다."
+  },
+  {
+   "s": "한국해양교통안전공단",
+   "s_type": "Agency",
+   "rel": "ANNOUNCED",
+   "o": "여객선 운항예보",
+   "o_type": "Policy",
+   "doc": "d0052",
+   "quote": "한국해양교통안전공단(KOMSA)은 추석 연휴를 앞두고 ‘여객선 운항예보’와 ‘터미널 혼잡정보’ 등 여객선 이용에 필요한 정보를 제공한다고 22일 밝혔다."
+  },
+  {
+   "s": "한국해양교통안전공단",
+   "s_type": "Agency",
+   "rel": "ANNOUNCED",
+   "o": "터미널 혼잡정보",
+   "o_type": "Policy",
+   "doc": "d0052",
+   "quote": "한국해양교통안전공단(KOMSA)은 추석 연휴를 앞두고 ‘여객선 운항예보’와 ‘터미널 혼잡정보’ 등 여객선 이용에 필요한 정보를 제공한다고 22일 밝혔다."
+  },
+  {
+   "s": "해수부",
+   "s_type": "Agency",
+   "rel": "ANNOUNCED",
+   "o": "특별교통대책기간",
+   "o_type": "Policy",
+   "doc": "d0052",
+   "quote": "해수부는 오는 23일부터 27일까지 5일간 이어지는 특별교통대책기간에 약 38만5000명이 연안여객선을 이용할 것으로 전망했다."
+  },
+  {
+   "s": "여수세계섬박람회",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "여수",
+   "o_type": "Region",
+   "doc": "d0052",
+   "quote": "내년 열리는 2026 여수세계섬박람회와 관련해서는 여수~함구미, 여수~연도 등 행사장을 오가는 5개 항로의 운항 가능성을 별도로 안내한다."
+  },
+  {
+   "s": "여수~함구미 항로",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "여수",
+   "o_type": "Region",
+   "doc": "d0052",
+   "quote": "내년 열리는 2026 여수세계섬박람회와 관련해서는 여수~함구미, 여수~연도 등 행사장을 오가는 5개 항로의 운항 가능성을 별도로 안내한다."
+  },
+  {
+   "s": "여수~연도 항로",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "여수",
+   "o_type": "Region",
+   "doc": "d0052",
+   "quote": "내년 열리는 2026 여수세계섬박람회와 관련해서는 여수~함구미, 여수~연도 등 행사장을 오가는 5개 항로의 운항 가능성을 별도로 안내한다."
+  },
+  {
+   "s": "안영철",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "한국해양교통안전공단",
+   "o_type": "Agency",
+   "doc": "d0052",
+   "quote": "안영철 해양교통안전공단 이사장은 “추석 연휴 여객선 이용정보를 미리 확인해 안전하고 편리하게 바닷길을 이용하시길 바란다”고 말했다."
+  },
+  {
+   "s": "이소영",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "국회 산업통상자원중소벤처기업위원회",
+   "o_type": "Agency",
+   "doc": "d0053",
+   "quote": "국회 산업통상자원중소벤처기업위원회는 22일 이소영 중소벤처기업부 장관 후보자의 인사청문 경과보고서를 여야 합의로 채택했다."
+  },
+  {
+   "s": "이소영",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "중소벤처기업부",
+   "o_type": "Agency",
+   "doc": "d0053",
+   "quote": "산자위는 “신상·도덕성과 전문성에 관한 우려를 겸허히 받아들이고 이를 유념해 직무를 수행한다는 전제하에 중기부 장관으로서 필요한 기본적 자질과 정책적 역량을 갖춘 것으로 판단했다”고 밝혔다."
+  },
+  {
+   "s": "국회 산업통상자원중소벤처기업위원회",
+   "s_type": "Agency",
+   "rel": "ANNOUNCED",
+   "o": "인사청문 경과보고서 채택",
+   "o_type": "Policy",
+   "doc": "d0053",
+   "quote": "국회 산업통상자원중소벤처기업위원회는 22일 이소영 중소벤처기업부 장관 후보자의 인사청문 경과보고서를 여야 합의로 채택했다."
+  },
+  {
+   "s": "최승호",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "삼성그룹 초기업노동조합 삼성전자지부",
+   "o_type": "Agency",
+   "doc": "d0053",
+   "quote": "최승호 삼성그룹 초기업노동조합 삼성전자지부 위원장이 증인으로 채택됐다."
+  },
+  {
+   "s": "이기승",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "BS그룹",
+   "o_type": "Agency",
+   "doc": "d0053",
+   "quote": "기업도시 추진과 관련해서는 이기승 BS그룹 회장이 증인으로 채택됐다."
+  },
+  {
+   "s": "김병주",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "MBK파트너스",
+   "o_type": "Agency",
+   "doc": "d0053",
+   "quote": "중소벤처기업부 국정감사에는 홈플러스 사태와 입점 상인의 피해 문제를 따져 묻기 위해 김병주 MBK파트너스 회장을 부르기로 했다."
+  },
+  {
+   "s": "정우신",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "한국토지주택공사",
+   "o_type": "Agency",
+   "doc": "d0053",
+   "quote": "한국토지주택공사(LH) 민간 참여 사업과 관련해서는 정우신 LH 민간사업협력처장이 증인 명단에 포함됐다."
+  },
+  {
+   "s": "한국토지주택공사",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "민간사업협력처",
+   "o_type": "Project",
+   "doc": "d0053",
+   "quote": "한국토지주택공사(LH) 민간 참여 사업과 관련해서는 정우신 LH 민간사업협력처장이 증인 명단에 포함됐다."
+  },
+  {
+   "s": "국민의힘",
+   "s_type": "Agency",
+   "rel": "ANNOUNCED",
+   "o": "호남 반도체 클러스터 투자계획 발표",
+   "o_type": "Policy",
+   "doc": "d0053",
+   "quote": "국민의힘이 호남 반도체 클러스터 투자계획 발표와 관련해 출석을 요구한 이재용 삼성전자 회장과 최태원 SK그룹 회장, 김용범 전 청와대 정책실장, 강훈식 대통령 비서실장은 민주당의 반대로 이번 명단에서 빠졌다."
+  },
+  {
+   "s": "김성원",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "국회 산업통상자원중소벤처기업위원회",
+   "o_type": "Agency",
+   "doc": "d0053",
+   "quote": "김성원 산자위원장은 이재용·최태원 회장의 증인 채택 여부에 대해 “최종 확정은 아니다”라며 “여야 간사가 계속 협의할 수 있도록 하겠다”고 말했다."
+  },
+  {
+   "s": "전남광주통합특별시",
+   "s_type": "Region",
+   "rel": "BY_AGENCY",
+   "o": "소상공인 1천억원 추가 지원",
+   "o_type": "Project",
+   "doc": "d0054",
+   "quote": "전남광주시, 소상공인에 1천억원 추가 지원"
+  },
+  {
+   "s": "소상공인 1천억원 추가 지원",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "전남광주통합특별시",
+   "o_type": "Region",
+   "doc": "d0054",
+   "quote": "전남광주시, 소상공인에 1천억원 추가 지원"
+  },
+  {
+   "s": "소상공인 1천억원 추가 지원",
+   "s_type": "Project",
+   "rel": "UNDER_POLICY",
+   "o": "원금 상환 1년 유예",
+   "o_type": "Policy",
+   "doc": "d0054",
+   "quote": "기존 대출 원금 상환 1년 유예 시행"
+  },
+  {
+   "s": "전남광주통합특별시",
+   "s_type": "Region",
+   "rel": "BY_AGENCY",
+   "o": "원금 상환 1년 유예",
+   "o_type": "Policy",
+   "doc": "d0054",
+   "quote": "기존 대출 원금 상환 1년 유예 시행"
+  },
+  {
+   "s": "힐스테이트 성남메트로블",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "성남시 수정구 단대동",
+   "o_type": "Region",
+   "doc": "d0055",
+   "quote": "이 단지는 성남시 수정구 단대동 180 옛 성남 KT 부지에 들어선다."
+  },
+  {
+   "s": "힐스테이트 성남메트로블",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "현대엔지니어링",
+   "o_type": "Agency",
+   "doc": "d0055",
+   "quote": "현대엔지니어링이 경기 성남시 지하철 8호선 단대오거리역 인근에 들어설 ‘힐스테이트 성남메트로블’(조감도)을 다음달 분양한다."
+  },
+  {
+   "s": "힐스테이트 성남메트로블",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "성남 법조타운",
+   "o_type": "Project",
+   "doc": "d0055",
+   "quote": "향후 조성될 성남 법조타운의 배후 주거단지로 자리매김할 전망이다."
+  },
+  {
+   "s": "수원지방법원 성남지원",
+   "s_type": "Agency",
+   "rel": "LOCATED_IN",
+   "o": "성남시 수정구 신흥동 옛 성남산업단지 제1공단 부지",
+   "o_type": "Region",
+   "doc": "d0055",
+   "quote": "수원지방법원 성남지원과 수원지방검찰청 성남지청이 이전하는 등 법조타운 조성이 추진되고 있다."
+  },
+  {
+   "s": "수원지방검찰청 성남지청",
+   "s_type": "Agency",
+   "rel": "LOCATED_IN",
+   "o": "성남시 수정구 신흥동 옛 성남산업단지 제1공단 부지",
+   "o_type": "Region",
+   "doc": "d0055",
+   "quote": "수원지방법원 성남지원과 수원지방검찰청 성남지청이 이전하는 등 법조타운 조성이 추진되고 있다."
+  },
+  {
+   "s": "성남세무서",
+   "s_type": "Agency",
+   "rel": "LOCATED_IN",
+   "o": "성남시 수정구 신흥동 옛 성남산업단지 제1공단 부지",
+   "o_type": "Region",
+   "doc": "d0055",
+   "quote": "성남세무서도 근처에 있어 법원과 검찰청 이전이 완료되면 법률·행정 기관이 집적된 업무권역이 형성될 전망이다."
+  },
+  {
+   "s": "부산상공회의소",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "산업은행",
+   "o_type": "Project",
+   "doc": "d0056",
+   "quote": "부산상공회의소 “산업은행 등 정책 금융기관 유치 필요”"
+  },
+  {
+   "s": "산업은행",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "부산",
+   "o_type": "Region",
+   "doc": "d0056",
+   "quote": "부산상공회의소 “산업은행 등 정책 금융기관 유치 필요”"
+  },
+  {
+   "s": "민주당 부산시당",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "산업은행",
+   "o_type": "Project",
+   "doc": "d0056",
+   "quote": "민주당 부산시당은 국책은행 3곳 가운데 최소 한 곳은 유치하겠다는 목표를 세웠다."
+  },
+  {
+   "s": "민주당 부산시당",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "한국수출입은행",
+   "o_type": "Project",
+   "doc": "d0056",
+   "quote": "민주당 부산시당은 국책은행 3곳 가운데 최소 한 곳은 유치하겠다는 목표를 세웠다."
+  },
+  {
+   "s": "민주당 부산시당 2차 공공기관 유치 특별위원회 유동철 위원장",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "민주당 부산시당",
+   "o_type": "Agency",
+   "doc": "d0056",
+   "quote": "민주당 부산시당의 2차 공공기관 유치 특별위원회 유동철 위원장은 지난 17일 기자회견에서 “산업은행이 될 수도 있고 수출입은행이 될 수도 있다”고 말했다."
+  },
+  {
+   "s": "이재명 대통령",
+   "s_type": "Person",
+   "rel": "ANNOUNCED",
+   "o": "경제수도 서울 정책",
+   "o_type": "Policy",
+   "doc": "d0056",
+   "quote": "이재명 대통령이 대국민 기자회견에서 ‘경제수도 서울·행정수도 세종’ 구상을 밝혔다."
+  },
+  {
+   "s": "금융노조",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "IBK기업은행",
+   "o_type": "Project",
+   "doc": "d0056",
+   "quote": "금융노조는 국책은행인 IBK기업은행의 지방 이전을 주장하는 움직임이 이어지고 있다."
+  },
+  {
+   "s": "금융노조",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "한국산업은행",
+   "o_type": "Project",
+   "doc": "d0056",
+   "quote": "금융노조는 국책은행인 한국산업은행의 지방 이전을 주장하는 움직임이 이어지고 있다."
+  },
+  {
+   "s": "금융노조",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "한국수출입은행",
+   "o_type": "Project",
+   "doc": "d0056",
+   "quote": "금융노조는 국책은행인 한국수출입은행의 지방 이전을 주장하는 움직임이 이어지고 있다."
+  },
+  {
+   "s": "윤석구 금융노조 위원장",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "금융노조",
+   "o_type": "Agency",
+   "doc": "d0056",
+   "quote": "윤석구 금융노조 위원장은 2차 총파업 계획을 밝혔다."
+  },
+  {
+   "s": "중소벤처기업부",
+   "s_type": "Agency",
+   "rel": "ANNOUNCED",
+   "o": "소상공인기본법 일부개정안",
+   "o_type": "Policy",
+   "doc": "d0057",
+   "quote": "22일 중기부는 소상공인의 분산된 데이터를 통합 구축·활용하기 위한 ‘소상공인기본법’ 일부개정안이 국무회의에서 의결됐다고 밝혔다."
+  },
+  {
+   "s": "소상공인기본법 일부개정안",
+   "s_type": "Policy",
+   "rel": "BY_AGENCY",
+   "o": "중소벤처기업부",
+   "o_type": "Agency",
+   "doc": "d0057",
+   "quote": "22일 중기부는 소상공인의 분산된 데이터를 통합 구축·활용하기 위한 ‘소상공인기본법’ 일부개정안이 국무회의에서 의결됐다고 밝혔다."
+  },
+  {
+   "s": "중소벤처기업부",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "소상공인 지원정책",
+   "o_type": "Policy",
+   "doc": "d0057",
+   "quote": "법 개정으로 소상공인 지원정책을 담당하는 중소벤처기업부가 국세청 데이터 등을 폭넓게 활용하는 법적 근거가 마련됐기 때문이다."
+  },
+  {
+   "s": "중소벤처기업부",
+   "s_type": "Agency",
+   "rel": "UNDER_POLICY",
+   "o": "소상공인기본법 일부개정안",
+   "o_type": "Policy",
+   "doc": "d0057",
+   "quote": "22일 중기부는 소상공인의 분산된 데이터를 통합 구축·활용하기 위한 ‘소상공인기본법’ 일부개정안이 국무회의에서 의결됐다고 밝혔다."
+  },
+  {
+   "s": "중소벤처기업부",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "소상공인 데이터 활용",
+   "o_type": "Project",
+   "doc": "d0057",
+   "quote": "법 개정으로 소상공인 지원정책을 담당하는 중소벤처기업부가 국세청 데이터 등을 폭넓게 활용하는 법적 근거가 마련됐기 때문이다."
+  },
+  {
+   "s": "소상공인 데이터 활용",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "중소벤처기업부",
+   "o_type": "Agency",
+   "doc": "d0057",
+   "quote": "법 개정으로 소상공인 지원정책을 담당하는 중소벤처기업부가 국세청 데이터 등을 폭넓게 활용하는 법적 근거가 마련됐기 때문이다."
+  },
+  {
+   "s": "소상공인 데이터 활용",
+   "s_type": "Project",
+   "rel": "UNDER_POLICY",
+   "o": "소상공인기본법 일부개정안",
+   "o_type": "Policy",
+   "doc": "d0057",
+   "quote": "22일 중기부는 소상공인의 분산된 데이터를 통합 구축·활용하기 위한 ‘소상공인기본법’ 일부개정안이 국무회의에서 의결됐다고 밝혔다."
+  },
+  {
+   "s": "연금 스테이션 팝업",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "광화문 청계광장",
+   "o_type": "Region",
+   "doc": "d0058",
+   "quote": "팝업은 오는 28일과 29일 서울 광화문 청계광장에서 처음 모습을 드러낼 예정이다."
+  },
+  {
+   "s": "연금 스테이션 팝업",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "한국투자증권",
+   "o_type": "Agency",
+   "doc": "d0058",
+   "quote": "한국투자증권은 체험형 이벤트인 '연금 스테이션 팝업'을 진행한다고 22일 밝혔다."
+  },
+  {
+   "s": "래미안 레비르 성수",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "성수3지구",
+   "o_type": "Region",
+   "doc": "d0059",
+   "quote": "삼성물산 건설부문이 공사비가 1조8000억원대인 서울 성동구 성수3지구 재개발 사업을 수주했다."
+  },
+  {
+   "s": "래미안 레비르 성수",
+   "s_type": "Project",
+   "rel": "BY_AGENCY",
+   "o": "삼성물산",
+   "o_type": "Agency",
+   "doc": "d0059",
+   "quote": "삼성물산은 지난 19일 열린 성수3지구 재개발조합 총회에서 최종 시공사로 선정됐다고 21일 밝혔다."
+  },
+  {
+   "s": "삼성물산",
+   "s_type": "Agency",
+   "rel": "ROLE_IN",
+   "o": "주택영업본부",
+   "o_type": "Agency",
+   "doc": "d0059",
+   "quote": "임철진 삼성물산 주택영업본부장은 “보유한 초고층 시공 역량과 미래 주거 기술을 바탕으로 성수 한강변을 대표하는 단지를 완성하겠다”고 말했다."
+  },
+  {
+   "s": "텀블러릿지 학교 총기 난사 사건",
+   "s_type": "Project",
+   "rel": "LOCATED_IN",
+   "o": "텀블러릿지",
+   "o_type": "Region",
+   "doc": "d0060",
+   "quote": "앞서 인구 2700여 명의 소도시 텀블러릿지에서 발생한 총기 난사 사건으로 8명이 숨지고 25명 이상이 다쳤다."
+  },
+  {
+   "s": "캐나다 브리티시컬럼비아(B.C.)주 정부",
+   "s_type": "Agency",
+   "rel": "ANNOUNCED",
+   "o": "소송",
+   "o_type": "Policy",
+   "doc": "d0060",
+   "quote": "캐나다 브리티시컬럼비아(B.C.)주 정부가 ... 미 연방법원에 손해배상 청구 소송을 제기했다."
+  },
+  {
+   "s": "소송",
+   "s_type": "Policy",
+   "rel": "BY_AGENCY",
+   "o": "캐나다 브리티시컬럼비아(B.C.)주 정부",
+   "o_type": "Agency",
+   "doc": "d0060",
+   "quote": "캐나다 브리티시컬럼비아(B.C.)주 정부가 ... 미 연방법원에 손해배상 청구 소송을 제기했다."
+  },
+  {
+   "s": "소송",
+   "s_type": "Policy",
+   "rel": "UNDER_POLICY",
+   "o": "제조물 책임법 위반",
+   "o_type": "Policy",
+   "doc": "d0060",
+   "quote": "주 정부 측은 오픈AI에 제조물 책임법 위반 및 대량 총기 난사 방조 혐의를 적용했다."
+  },
+  {
+   "s": "소송",
+   "s_type": "Policy",
+   "rel": "UNDER_POLICY",
+   "o": "대량 총기 난사 방조 혐의",
+   "o_type": "Policy",
+   "doc": "d0060",
+   "quote": "주 정부 측은 오픈AI에 제조물 책임법 위반 및 대량 총기 난사 방조 혐의를 적용했다."
+  },
+  {
+   "s": "오픈AI",
+   "s_type": "Agency",
+   "rel": "BY_AGENCY",
+   "o": "텀블러릿지 학교 총기 난사 사건",
+   "o_type": "Project",
+   "doc": "d0060",
+   "quote": "챗GPT 개발사인 오픈AI와 샘 알트만 최고경영자(CEO)를 상대로 ... 소송을 제기했다."
+  },
+  {
+   "s": "샘 알트만",
+   "s_type": "Person",
+   "rel": "ROLE_IN",
+   "o": "오픈AI",
+   "o_type": "Agency",
+   "doc": "d0060",
+   "quote": "챗GPT 개발사인 오픈AI와 샘 알트만 최고경영자(CEO)를 상대로 ... 소송을 제기했다."
+  }
+ ]
+}

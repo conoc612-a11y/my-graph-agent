@@ -1,0 +1,101 @@
+{
+ "by_hop": {
+  "1": {
+   "n": 7,
+   "graph_acc": 0.86,
+   "baseline_acc": 0.29
+  },
+  "2": {
+   "n": 4,
+   "graph_acc": 1.0,
+   "baseline_acc": 0.5
+  }
+ },
+ "fails": {
+  "g01:generation": 1
+ },
+ "items": [
+  {
+   "id": "g01",
+   "hops": 1,
+   "verdict": "fail",
+   "layer": "generation",
+   "path_recall": 1.0
+  },
+  {
+   "id": "g02",
+   "hops": 1,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": 1.0
+  },
+  {
+   "id": "g03",
+   "hops": 1,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": 1.0
+  },
+  {
+   "id": "g04",
+   "hops": 1,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": 1.0
+  },
+  {
+   "id": "g05",
+   "hops": 1,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": 1.0
+  },
+  {
+   "id": "g06",
+   "hops": 2,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": 1.0
+  },
+  {
+   "id": "g07",
+   "hops": 2,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": 1.0
+  },
+  {
+   "id": "g08",
+   "hops": 2,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": 1.0
+  },
+  {
+   "id": "g09",
+   "hops": 2,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": null
+  },
+  {
+   "id": "g10",
+   "hops": 1,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": null
+  },
+  {
+   "id": "g11",
+   "hops": 1,
+   "verdict": "pass",
+   "layer": "-",
+   "path_recall": null
+  }
+ ],
+ "overall": {
+  "n": 11,
+  "graph_acc": 0.91,
+  "baseline_acc": 0.36
+ }
+}

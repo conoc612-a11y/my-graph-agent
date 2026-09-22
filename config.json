@@ -1,0 +1,24 @@
+{
+  "domain": "서울·경기 부동산 뉴스 (개발·거래·정책·세금)",
+  "model": "gpt-4.1-mini",
+  "node_types": ["Region", "Project", "Agency", "Policy", "Person"],
+  "relations": ["LOCATED_IN", "BY_AGENCY", "UNDER_POLICY", "ROLE_IN", "ANNOUNCED"],
+  "relation_desc": {
+    "LOCATED_IN": "Project가 위치한 Region",
+    "BY_AGENCY": "Project의 발표·시행·운영 주체 Agency",
+    "UNDER_POLICY": "Project에 적용되는 Policy(제도·규제·지원책)",
+    "ROLE_IN": "Person이 소속·직책을 맡은 Agency",
+    "ANNOUNCED": "Agency가 발표한 Policy"
+  },
+  "skipped_relations": ["금액·면적·일정(값 속성)", "인용·발언 내용", "단순 언급(관계 없음)"],
+  "skip_cost": "언제·얼마 질문 불가. 그 대신 경로가 값 없이도 성립하는 구조 질문만 받는다",
+  "aliases": {
+    "서울": "서울특별시", "경기": "경기도", "국토부": "국토교통부",
+    "기재부": "기획재정부", "서울시": "서울특별시", "경기도청": "경기도"
+  },
+  "stopwords": ["정부", "당국", "관계자", "전문가", "시민", "주민", "시장", "업계", "올해", "내년"],
+  "max_hops": 2,
+  "hub_min_degree": 18,
+  "hub_reason": "연결 18개 이상 노드(실측: 국토교통부 30·서울특별시 18)는 중간 브릿지로 쓰면 어디서든 이어져 경로가 무의미해진다. 문서수 기준이 아니라 연결수 기준인 이유: 국토교통부는 30연결이지만 소수 문서에 몰려 있어 문서수 기준으로는 안 걸러졌다",
+  "answer_refuse": "경로가 끊기면 넓히고(홉+1), 그래도 근거가 없으면 모른다고 말한다"
+}

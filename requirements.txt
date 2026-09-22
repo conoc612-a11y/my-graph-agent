@@ -1,0 +1,8 @@
+openai>=1.0
+langgraph
+feedparser
+requests
+trafilatura
+pyyaml
+pydantic
+streamlit
