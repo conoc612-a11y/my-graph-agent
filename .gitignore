@@ -1,3 +1,10 @@
 keys.env
 venv/
 __pycache__/
+
+# pyvis 가 그래프 망을 그릴 때 «자기 자산»을 여기 풀어 놓는다(vis-network·tom-select).
+# 앱을 돌리면 다시 생긴다 — 저장소에 둘 이유가 없다.
+lib/
+
+# oh-my-claudecode 작업 상태 (도구 산물)
+.omc/
